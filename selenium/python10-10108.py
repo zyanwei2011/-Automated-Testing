@@ -19,7 +19,7 @@ def insert_coins(mon):
         else:
             money = money
             print('余额不应超过10元，投币失败')
-    print(money)
+    print('余额总数：',money)
 
 def buy_goods(*args):
     global money
