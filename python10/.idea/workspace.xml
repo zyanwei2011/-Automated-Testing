@@ -1,53 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="389a64d2-88f7-47a3-9bef-9c882f779df6" name="Default" comment="" />
+    <list default="true" id="eb061eaa-a67d-43d3-a295-8e9f76732a35" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python10$test002.coverage" NAME="test002 Coverage Results" MODIFIED="1539256659066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy001" />
+    <SUITE FILE_PATH="coverage/python10$conf.coverage" NAME="conf Coverage Results" MODIFIED="1539914538545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy" />
+    <SUITE FILE_PATH="coverage/python10$test_suite.coverage" NAME="test_suite Coverage Results" MODIFIED="1538197892357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy" />
+    <SUITE FILE_PATH="coverage/python10$logging.coverage" NAME="logging Coverage Results" MODIFIED="1540002389785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LOG" />
+    <SUITE FILE_PATH="coverage/python10$learn_ddt.coverage" NAME="learn ddt Coverage Results" MODIFIED="1539940768904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy" />
+    <SUITE FILE_PATH="coverage/python10$execute_case.coverage" NAME="execute_case Coverage Results" MODIFIED="1538203889533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy001" />
+    <SUITE FILE_PATH="coverage/python10$excute_case__2_.coverage" NAME="excute_case (2) Coverage Results" MODIFIED="1542359170955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy_1024" />
+    <SUITE FILE_PATH="coverage/python10$test_case.coverage" NAME="test_case Coverage Results" MODIFIED="1538196900257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy001" />
+    <SUITE FILE_PATH="coverage/python10$project_path.coverage" NAME="project_path Coverage Results" MODIFIED="1542334570278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy_1024/common" />
+    <SUITE FILE_PATH="coverage/python10$excute_case.coverage" NAME="excute_case Coverage Results" MODIFIED="1542334595613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy_1024" />
+    <SUITE FILE_PATH="coverage/python10$Unittests_in_zy.coverage" NAME="Unittests in zy Coverage Results" MODIFIED="1542349645387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy" />
+    <SUITE FILE_PATH="coverage/python10$do_excel__1_.coverage" NAME="do_excel (1) Coverage Results" MODIFIED="1540369166387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy_1024" />
+    <SUITE FILE_PATH="coverage/python10$read_config.coverage" NAME="read_config Coverage Results" MODIFIED="1540368207462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy_1024" />
+    <SUITE FILE_PATH="coverage/python10$zy_re.coverage" NAME="zy_re Coverage Results" MODIFIED="1540369647891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy_resquests" />
+    <SUITE FILE_PATH="coverage/python10$run__1_.coverage" NAME="run (1) Coverage Results" MODIFIED="1542616627407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_test" />
+    <SUITE FILE_PATH="coverage/python10$unit_test.coverage" NAME="unit_test Coverage Results" MODIFIED="1538126165071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy" />
+    <SUITE FILE_PATH="coverage/python10$learn_log.coverage" NAME="learn_log Coverage Results" MODIFIED="1540007175913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LOG" />
+    <SUITE FILE_PATH="coverage/python10$Unittests_in_test_case_py.coverage" NAME="Unittests in test_case.py Coverage Results" MODIFIED="1540370125883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy_1024" />
+    <SUITE FILE_PATH="coverage/python10$test_suite__1_.coverage" NAME="test_suite (1) Coverage Results" MODIFIED="1539939482179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_0926_ddt" />
+    <SUITE FILE_PATH="coverage/python10$test001.coverage" NAME="test001 Coverage Results" MODIFIED="1539254780304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy001" />
+    <SUITE FILE_PATH="coverage/python10$zy_re__1_.coverage" NAME="zy_re (1) Coverage Results" MODIFIED="1540371240482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy_1024" />
+    <SUITE FILE_PATH="coverage/python10$Unittests_in_unit_test_py.coverage" NAME="Unittests in unit_test.py Coverage Results" MODIFIED="1538119544562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy" />
+    <SUITE FILE_PATH="coverage/python10$excute_case__1_.coverage" NAME="excute_case (1) Coverage Results" MODIFIED="1542349591208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy" />
+    <SUITE FILE_PATH="coverage/python10$execute_case__1_.coverage" NAME="execute_case (1) Coverage Results" MODIFIED="1539253754639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy" />
+    <SUITE FILE_PATH="coverage/python10$excute_case__3_.coverage" NAME="excute_case (3) Coverage Results" MODIFIED="1542358427604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy_10276" />
+    <SUITE FILE_PATH="coverage/python10$excel.coverage" NAME="excel Coverage Results" MODIFIED="1539261682052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy" />
+    <SUITE FILE_PATH="coverage/python10$test_case__1_.coverage" NAME="test_case (1) Coverage Results" MODIFIED="1539254575445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy" />
+    <SUITE FILE_PATH="coverage/python10$need_to_test.coverage" NAME="need_to_test Coverage Results" MODIFIED="1538196784764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy001" />
+    <SUITE FILE_PATH="coverage/python10$run.coverage" NAME="run Coverage Results" MODIFIED="1542615840371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_test/interface_test" />
+    <SUITE FILE_PATH="coverage/python10$do_excel.coverage" NAME="do_excel Coverage Results" MODIFIED="1540352015949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy_resquests" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-284325597">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="19" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.33" value="2" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.37" value="2" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="conf" value="5" />
+          <entry key="config" value="14" />
+          <entry key="html" value="12" />
+          <entry key="log" value="3" />
+          <entry key="py" value="262" />
+          <entry key="txt" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ANSI Aware" value="3" />
+          <entry key="Erlang Terms" value="8" />
+          <entry key="HTML" value="12" />
+          <entry key="PLAIN_TEXT" value="25" />
+          <entry key="Python" value="262" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="conf" value="60" />
+          <entry key="config" value="74" />
+          <entry key="dummy" value="6" />
+          <entry key="log" value="2" />
+          <entry key="py" value="10711" />
+          <entry key="txt" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ANSI Aware" value="2" />
+          <entry key="Erlang Terms" value="3" />
+          <entry key="PLAIN_TEXT" value="143" />
+          <entry key="Python" value="10711" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BIM.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BIM/BIM.py">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface_test/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="002.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/primary/002.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="baidulogin.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/primary/baidulogin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BIM_login.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BIM/BIM_login.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <state relative-caret-position="330">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
-                <element signature="e#0#30#0" expanded="true" />
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/interface_test/test_result/logs/test_api_log.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="82" selection-start-line="11" selection-start-column="82" selection-end-line="11" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface_test/common/test_log.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" column="86" lean-forward="true" selection-start-line="11" selection-start-column="86" selection-end-line="11" selection-end-column="86" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,73 +150,189 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/s02.py" />
-        <option value="$PROJECT_DIR$/primary/s01.py" />
-        <option value="$PROJECT_DIR$/primary/nickname.py" />
-        <option value="$PROJECT_DIR$/primary/login.py" />
-        <option value="$PROJECT_DIR$/s01.py" />
-        <option value="$PROJECT_DIR$/primary/BIM.py" />
-        <option value="$PROJECT_DIR$/primary/001.py" />
-        <option value="$PROJECT_DIR$/primary/BIM_login.py" />
-        <option value="$PROJECT_DIR$/primary/002.py" />
-        <option value="$PROJECT_DIR$/BIM/BIM.py" />
-        <option value="$PROJECT_DIR$/BIM/BIM_login.py" />
+        <option value="$PROJECT_DIR$/zy/test_suite.py" />
+        <option value="$PROJECT_DIR$/class_0917_unittest/test_suite.py" />
+        <option value="$PROJECT_DIR$/zy001/need_to_test.py" />
+        <option value="$PROJECT_DIR$/zy001/execute_case.py" />
+        <option value="$PROJECT_DIR$/zy/unit_test.py" />
+        <option value="$PROJECT_DIR$/zy/Code.py" />
+        <option value="$PROJECT_DIR$/zy/execute_case.py" />
+        <option value="$PROJECT_DIR$/zy001/code.py" />
+        <option value="$PROJECT_DIR$/zy001/test_case.py" />
+        <option value="$PROJECT_DIR$/zy001/test002.py" />
+        <option value="$PROJECT_DIR$/zy001/test001.py" />
+        <option value="$PROJECT_DIR$/zy/excel.py" />
+        <option value="$PROJECT_DIR$/zy/code.py" />
+        <option value="$PROJECT_DIR$/zy/conf.py" />
+        <option value="$PROJECT_DIR$/class_0926_ddt/do_excel.py" />
+        <option value="$PROJECT_DIR$/class_0926_ddt/learn_ddt.py" />
+        <option value="$PROJECT_DIR$/zy/excute_case.py" />
+        <option value="$PROJECT_DIR$/zy/test_case.py" />
+        <option value="$PROJECT_DIR$/zy/case.conf" />
+        <option value="$PROJECT_DIR$/class_0926_ddt/test_suite.py" />
+        <option value="$PROJECT_DIR$/zy/do_excel.py" />
+        <option value="$PROJECT_DIR$/zy/en.py" />
+        <option value="$PROJECT_DIR$/zy/learn ddt.py" />
+        <option value="$PROJECT_DIR$/LOG/loging.py" />
+        <option value="$PROJECT_DIR$/LOG/logging.py" />
+        <option value="$PROJECT_DIR$/LOG/zy.log" />
+        <option value="$PROJECT_DIR$/LOG/learn_log.py" />
+        <option value="$PROJECT_DIR$/LOG/test_log.txt" />
+        <option value="$PROJECT_DIR$/zy_resquests/re.py" />
+        <option value="$PROJECT_DIR$/zy_resquests/zy_re.py" />
+        <option value="$PROJECT_DIR$/zy_resquests/run.py" />
+        <option value="$PROJECT_DIR$/zy_resquests/do_excel.py" />
+        <option value="$PROJECT_DIR$/zy_1024/read_config.py" />
+        <option value="$PROJECT_DIR$/zy_1024/common/read_config.py" />
+        <option value="$PROJECT_DIR$/zy_1024/common/do_excel.py" />
+        <option value="$PROJECT_DIR$/zy_1024/common/zy_requests.py" />
+        <option value="$PROJECT_DIR$/zy_1024/common/project_path.py" />
+        <option value="$PROJECT_DIR$/zy_1024/excute_case.py" />
+        <option value="$PROJECT_DIR$/zy_1024/zy_re.py" />
+        <option value="$PROJECT_DIR$/zy_1024/do_excel.py" />
+        <option value="$PROJECT_DIR$/zy_1024/test_case.py" />
+        <option value="$PROJECT_DIR$/zy_1024/case.config" />
+        <option value="$PROJECT_DIR$/zy_1024/zy_1024/do_excel.py" />
+        <option value="$PROJECT_DIR$/zy_1024/zy_1024/test_case.py" />
+        <option value="$PROJECT_DIR$/zy_1024/zy_1024/zy_re.py" />
+        <option value="$PROJECT_DIR$/zy_10276/zy_1024/excute_case.py" />
+        <option value="$PROJECT_DIR$/zy_10276/test_case.py" />
+        <option value="$PROJECT_DIR$/zy_10276/case.config" />
+        <option value="$PROJECT_DIR$/zy_1024/common/test_case.py" />
+        <option value="$PROJECT_DIR$/interface_test/common/test_log.py" />
+        <option value="$PROJECT_DIR$/interface_test/test_result/logs/test_api_log.txt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="753" />
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="249" />
+    <option name="y" value="26" />
+    <option name="width" value="1062" />
+    <option name="height" value="742" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyInterpreterInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="python10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python10" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="BIM" type="462c0819:PsiDirectoryNode" />
+              <item name="python10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python10" type="462c0819:PsiDirectoryNode" />
+              <item name="interface_test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="primary" type="462c0819:PsiDirectoryNode" />
+              <item name="python10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python10" type="462c0819:PsiDirectoryNode" />
+              <item name="interface_test" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python10" type="462c0819:PsiDirectoryNode" />
+              <item name="interface_test" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python10" type="462c0819:PsiDirectoryNode" />
+              <item name="interface_test" type="462c0819:PsiDirectoryNode" />
+              <item name="test_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python10" type="462c0819:PsiDirectoryNode" />
+              <item name="interface_test" type="462c0819:PsiDirectoryNode" />
+              <item name="test_result" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python10" type="462c0819:PsiDirectoryNode" />
+              <item name="interface_test" type="462c0819:PsiDirectoryNode" />
+              <item name="test_result" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python10" type="462c0819:PsiDirectoryNode" />
+              <item name="interface_test" type="462c0819:PsiDirectoryNode" />
+              <item name="test_result" type="462c0819:PsiDirectoryNode" />
+              <item name="results" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="python10" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="python10" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\pythonProgram\Selenium\BIM" />
+      <recent name="F:\学习\柠檬班\python10\zy_10276" />
+      <recent name="F:\学习\柠檬班\python10" />
+      <recent name="F:\学习\柠檬班\python10\zy_1024" />
+      <recent name="F:\学习\柠檬班\python10\zy_1024\test_data" />
+      <recent name="F:\学习\柠檬班\python10\zy_1024\test_result\reports" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\学习\柠檬班\python10\zy_1024\test_result" />
+      <recent name="F:\学习\柠檬班\python10\zy_1024" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -146,274 +347,523 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BIM_login">
-    <configuration name="001" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="JavaScript Debug.test_result.html (1)">
+    <configuration name="test_result.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/python10/interface_test/test_result/results/test_result.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="excute_case (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python10" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/primary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zy_1024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Selenium" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/primary/001.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zy_1024/excute_case.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="002" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="excute_case (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python10" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/primary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zy_10276" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Selenium" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/primary/002.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zy_10276/excute_case.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="BIM" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="run (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python10" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/primary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Selenium" />
-      <option name="SCRIPT_NAME" value="F:\pythonProgram\Selenium\BIM\BIM.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interface_test/run.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="BIM_login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python10" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/primary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface_test/interface_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Selenium" />
-      <option name="SCRIPT_NAME" value="F:\pythonProgram\Selenium\BIM\BIM_login.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interface_test/interface_test/run.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_suite" type="PythonConfigurationType" factoryName="Python">
+      <module name="python10" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/primary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Selenium" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/primary/login.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zy/test_suite.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.login" />
-      <item index="1" class="java.lang.String" itemvalue="Python.BIM" />
-      <item index="2" class="java.lang.String" itemvalue="Python.001" />
-      <item index="3" class="java.lang.String" itemvalue="Python.002" />
-      <item index="4" class="java.lang.String" itemvalue="Python.BIM_login" />
+    <list>
+      <item itemvalue="Python.test_suite" />
+      <item itemvalue="Python.excute_case (2)" />
+      <item itemvalue="Python.excute_case (3)" />
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.run (1)" />
+      <item itemvalue="JavaScript Debug.test_result.html (1)" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.BIM_login" />
-        <item index="1" class="java.lang.String" itemvalue="Python.BIM" />
-        <item index="2" class="java.lang.String" itemvalue="Python.001" />
-        <item index="3" class="java.lang.String" itemvalue="Python.002" />
-        <item index="4" class="java.lang.String" itemvalue="Python.login" />
+      <list>
+        <item itemvalue="Python.run (1)" />
+        <item itemvalue="JavaScript Debug.test_result.html (1)" />
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.excute_case (2)" />
+        <item itemvalue="Python.excute_case (3)" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="389a64d2-88f7-47a3-9bef-9c882f779df6" name="Default" comment="" />
-      <created>1534147992947</created>
+      <changelist id="eb061eaa-a67d-43d3-a295-8e9f76732a35" name="Default Changelist" comment="" />
+      <created>1538106765999</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1534147992947</updated>
+      <updated>1538106765999</updated>
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_case_py - 2018.10.19 at 15h 59m 01s.xml">
+      <configuration name="Unittests in test_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_case_py - 2018.10.19 at 16h 00m 59s.xml">
+      <configuration name="Unittests in test_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_case_py - 2018.10.19 at 16h 02m 15s.xml">
+      <configuration name="Unittests in test_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_case_py - 2018.10.19 at 16h 02m 52s.xml">
+      <configuration name="Unittests in test_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_case_py - 2018.10.19 at 16h 04m 56s.xml">
+      <configuration name="Unittests in test_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_case_py - 2018.10.19 at 16h 10m 18s.xml">
+      <configuration name="Unittests in test_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_case_py - 2018.10.19 at 16h 17m 34s.xml">
+      <configuration name="Unittests in test_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_case_py - 2018.10.19 at 16h 19m 08s.xml">
+      <configuration name="Unittests in test_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_case_py - 2018.10.24 at 16h 35m 26s.xml">
+      <configuration name="Unittests in test_case.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_zy - 2018.11.16 at 14h 27m 26s.xml">
+      <configuration name="Unittests in zy" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="753" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11054173" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3859375" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4939759" visible="true" weight="0.17700455" />
+      <window_info id="Structure" order="1" sideWeight="0.5060241" side_tool="true" weight="0.17246597" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.14401294" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.32847896" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39967638" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32847896" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.32847896" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32847896" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32847896" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15960665" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.14401294" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.32847896" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39967638" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32847896" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.32847896" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32847896" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32847896" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BIM/BIM.py">
+    <entry file="file://$PROJECT_DIR$/zy_sub/do_excel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-352">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/primary/002.py">
+    <entry file="file://$PROJECT_DIR$/zy_sub/test_case.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="286">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/primary/baidulogin.py">
+    <entry file="file://$PROJECT_DIR$/zy/en.py" />
+    <entry file="file://$PROJECT_DIR$/zy_sub/learn ddt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="44" column="24" lean-forward="false" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
-          <folding />
+        <state relative-caret-position="396">
+          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BIM/BIM_login.py">
+    <entry file="file://$PROJECT_DIR$/LOG/loging.py" />
+    <entry file="file://$PROJECT_DIR$/LOG/logging.py" />
+    <entry file="file://$PROJECT_DIR$/class_0930_log/zy.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BIM/BIM.py">
+    <entry file="file://$PROJECT_DIR$/class_0930_log/error.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/primary/001.py">
+    <entry file="file://$PROJECT_DIR$/class_0930_log/all.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        <state>
+          <caret selection-end-line="4" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BIM/BIM_login.py">
+    <entry file="file://$PROJECT_DIR$/class_0930_log/test_log.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_0930_log/learn_log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="53" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_1010_http/http_request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Program Files (x86)/python/Lib/configparser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="677" column="43" selection-start-line="677" selection-start-column="19" selection-end-line="677" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zy_resquests/zy_re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Program Files (x86)/python/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="452" column="8" selection-start-line="452" selection-start-column="8" selection-end-line="452" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Program Files (x86)/python/Lib/HTMLTestRunnerNew.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="518" column="93" selection-start-line="518" selection-start-column="23" selection-end-line="518" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zy_1024/test_result/reports/test_result.html" />
+    <entry file="file://E:/Program Files (x86)/python/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zy_resquests/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/123/__init__.py" />
+    <entry file="file://E:/Program Files (x86)/python/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1119">
+          <caret line="532" selection-start-line="532" selection-end-line="532" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zy_1024/config/case.config" />
+    <entry file="file://$PROJECT_DIR$/zy_sub/excute_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zy_sub/case.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zy_sub/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zy_1024/zy_re.py" />
+    <entry file="file://$PROJECT_DIR$/zy_1024/read_config.py" />
+    <entry file="file://$PROJECT_DIR$/zy_1024/test_case.py" />
+    <entry file="file://$PROJECT_DIR$/zy_1024/do_excel.py" />
+    <entry file="file://$PROJECT_DIR$/zy_1024/case.config" />
+    <entry file="file://F:/BaiduNetdiskDownload/API_Frame_Work_1019/read_me.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1527" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zy_10276/case.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zy_10276/read_config.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zy_10276/excute_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zy_10276/test_result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2178" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zy_10276/zy_re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zy_10276/do_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zy_1024/common/project_path.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zy_1024/common/read_config.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zy_1024/common/test_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="26" column="56" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zy_10276/test_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="22" column="49" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zy_resquests/do_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zy_1024/common/do_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-242">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zy_1024/excute_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zy_1024/common/zy_requests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_test/interface_test/common/test_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/primary/002.py">
+    <entry file="file://$PROJECT_DIR$/interface_test/interface_test/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/primary/login.py" />
-    <entry file="file://$PROJECT_DIR$/primary/nickname.py" />
-    <entry file="file://$PROJECT_DIR$/s01.py" />
-    <entry file="file://$PROJECT_DIR$/s02.py" />
-    <entry file="file://$PROJECT_DIR$/primary/s01.py" />
-    <entry file="file://$PROJECT_DIR$/s01.py" />
-    <entry file="file://$PROJECT_DIR$/primary/login.py" />
-    <entry file="file://$PROJECT_DIR$/primary/nickname.py" />
-    <entry file="file://$PROJECT_DIR$/primary/001.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BIM/BIM_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        <state relative-caret-position="352">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/primary/002.py">
+    <entry file="file://$PROJECT_DIR$/interface_test/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="330">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BIM/BIM.py">
+    <entry file="file://E:/Program Files (x86)/python/Lib/logging/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="55">
+          <caret line="1021" column="56" lean-forward="true" selection-start-line="1021" selection-start-column="43" selection-end-line="1021" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/primary/baidulogin.py">
+    <entry file="file://$PROJECT_DIR$/interface_test/common/test_log.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="176">
+          <caret line="11" column="86" lean-forward="true" selection-start-line="11" selection-start-column="86" selection-end-line="11" selection-end-column="86" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_test/test_result/logs/test_api_log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="82" selection-start-line="11" selection-start-column="82" selection-end-line="11" selection-end-column="82" />
         </state>
       </provider>
     </entry>
