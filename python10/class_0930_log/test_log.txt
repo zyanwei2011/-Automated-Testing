@@ -1,0 +1,5 @@
+2018-10-20 11:46:16,011 - DEBUG - learn_log.py[:19] - python10 - debug message
+2018-10-20 11:46:16,011 - INFO - learn_log.py[:21] - python10 - info message
+2018-10-20 11:46:16,012 - WARNING - learn_log.py[:23] - python10 - warning message
+2018-10-20 11:46:16,012 - ERROR - learn_log.py[:25] - python10 - error message
+2018-10-20 11:46:16,013 - CRITICAL - learn_log.py[:27] - python10 - critical message

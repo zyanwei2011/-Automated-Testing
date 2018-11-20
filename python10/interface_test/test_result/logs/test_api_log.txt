@@ -1,0 +1,70 @@
+2018-11-19 16:37:08,388 - INFO - test_log.py[:27] - python10 - Start
+2018-11-19 16:37:08,388 - INFO - test_log.py[:27] - python10 - 正在执行第1条测试用例：正常注册，参数：{"mobilephone":"13636367938","pwd":"123456","regname":"test_zy"}
+2018-11-19 16:37:08,472 - INFO - test_log.py[:27] - python10 - 正在进行POST请求
+2018-11-19 16:37:08,473 - INFO - test_log.py[:27] - python10 - 测试请求的结果是{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2018-11-19 16:37:08,474 - INFO - test_log.py[:27] - python10 - 测试结果是:<Response [200]>
+2018-11-19 16:37:08,475 - INFO - test_log.py[:27] - python10 - 测试通过
+2018-11-19 16:37:08,490 - INFO - test_log.py[:27] - python10 - End
+2018-11-19 16:37:08,490 - INFO - test_log.py[:27] - python10 - Start
+2018-11-19 16:37:08,490 - INFO - test_log.py[:27] - python10 - 正在执行第2条测试用例：不输入昵称，参数：{"mobilephone":"13433333388","pwd":"123456","regname":""}
+2018-11-19 16:37:08,561 - INFO - test_log.py[:27] - python10 - 正在进行POST请求
+2018-11-19 16:37:08,561 - INFO - test_log.py[:27] - python10 - 测试请求的结果是{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2018-11-19 16:37:08,561 - INFO - test_log.py[:27] - python10 - 测试结果是:<Response [200]>
+2018-11-19 16:37:08,570 - ERROR - test_log.py[:31] - python10 - 测试出错了：20110 != 10001
+2018-11-19 16:37:08,590 - INFO - test_log.py[:27] - python10 - End
+2018-11-19 16:37:08,590 - INFO - test_log.py[:27] - python10 - Start
+2018-11-19 16:37:08,590 - INFO - test_log.py[:27] - python10 - 正在执行第3条测试用例：不输入手机号，参数：{"mobilephone":"","pwd":"123456","regname":"test_zy"}
+2018-11-19 16:37:08,651 - INFO - test_log.py[:27] - python10 - 正在进行POST请求
+2018-11-19 16:37:08,661 - INFO - test_log.py[:27] - python10 - 测试请求的结果是{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2018-11-19 16:37:08,661 - INFO - test_log.py[:27] - python10 - 测试结果是:<Response [200]>
+2018-11-19 16:37:08,661 - INFO - test_log.py[:27] - python10 - 测试通过
+2018-11-19 16:37:08,681 - INFO - test_log.py[:27] - python10 - End
+2018-11-19 16:37:08,691 - INFO - test_log.py[:27] - python10 - Start
+2018-11-19 16:37:08,691 - INFO - test_log.py[:27] - python10 - 正在执行第4条测试用例：不输入密码，参数：{"mobilephone":"13433333343","pwd":"","regname":""}
+2018-11-19 16:37:08,741 - INFO - test_log.py[:27] - python10 - 正在进行POST请求
+2018-11-19 16:37:08,751 - INFO - test_log.py[:27] - python10 - 测试请求的结果是{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2018-11-19 16:37:08,751 - INFO - test_log.py[:27] - python10 - 测试结果是:<Response [200]>
+2018-11-19 16:37:08,751 - INFO - test_log.py[:27] - python10 - 测试通过
+2018-11-19 16:37:08,771 - INFO - test_log.py[:27] - python10 - End
+2018-11-19 16:37:08,771 - INFO - test_log.py[:27] - python10 - Start
+2018-11-19 16:37:08,771 - INFO - test_log.py[:27] - python10 - 正在执行第5条测试用例：输入不合法手机号，参数：{"mobilephone":"1343333344","pwd":"123456","regname":"test_zy"}
+2018-11-19 16:37:08,831 - INFO - test_log.py[:27] - python10 - 正在进行POST请求
+2018-11-19 16:37:08,831 - INFO - test_log.py[:27] - python10 - 测试请求的结果是{"status":0,"code":"20109","data":null,"msg":"手机号码格式不正确"}
+2018-11-19 16:37:08,831 - INFO - test_log.py[:27] - python10 - 测试结果是:<Response [200]>
+2018-11-19 16:37:08,831 - INFO - test_log.py[:27] - python10 - 测试通过
+2018-11-19 16:37:08,851 - INFO - test_log.py[:27] - python10 - End
+2018-11-19 16:37:08,851 - INFO - test_log.py[:27] - python10 - Start
+2018-11-19 16:37:08,851 - INFO - test_log.py[:27] - python10 - 正在执行第6条测试用例：输入不合法密码，参数：{"mobilephone":"1343333345","pwd":"23456","regname":"test_zy"}
+2018-11-19 16:37:08,911 - INFO - test_log.py[:27] - python10 - 正在进行POST请求
+2018-11-19 16:37:08,911 - INFO - test_log.py[:27] - python10 - 测试请求的结果是{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2018-11-19 16:37:08,911 - INFO - test_log.py[:27] - python10 - 测试结果是:<Response [200]>
+2018-11-19 16:37:08,911 - INFO - test_log.py[:27] - python10 - 测试通过
+2018-11-19 16:37:08,931 - INFO - test_log.py[:27] - python10 - End
+2018-11-19 16:37:08,931 - INFO - test_log.py[:27] - python10 - Start
+2018-11-19 16:37:08,941 - INFO - test_log.py[:27] - python10 - 正在执行第7条测试用例：输入不合法用户名，参数：{"mobilephone":"13433333346","pwd":"123456","regname":"YQEWGQ"}
+2018-11-19 16:37:09,001 - INFO - test_log.py[:27] - python10 - 正在进行POST请求
+2018-11-19 16:37:09,001 - INFO - test_log.py[:27] - python10 - 测试请求的结果是{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2018-11-19 16:37:09,001 - INFO - test_log.py[:27] - python10 - 测试结果是:<Response [200]>
+2018-11-19 16:37:09,001 - ERROR - test_log.py[:31] - python10 - 测试出错了：20110 != 20111
+2018-11-19 16:37:09,031 - INFO - test_log.py[:27] - python10 - End
+2018-11-19 16:37:09,031 - INFO - test_log.py[:27] - python10 - Start
+2018-11-19 16:37:09,031 - INFO - test_log.py[:27] - python10 - 正在执行第8条测试用例：输入已注册手机号，参数：{"mobilephone":"1343333347","pwd":"23456","regname":"QWEQEQWE"}
+2018-11-19 16:37:09,091 - INFO - test_log.py[:27] - python10 - 正在进行POST请求
+2018-11-19 16:37:09,091 - INFO - test_log.py[:27] - python10 - 测试请求的结果是{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2018-11-19 16:37:09,091 - INFO - test_log.py[:27] - python10 - 测试结果是:<Response [200]>
+2018-11-19 16:37:09,091 - ERROR - test_log.py[:31] - python10 - 测试出错了：20108 != 20110
+2018-11-19 16:37:09,111 - INFO - test_log.py[:27] - python10 - End
+2018-11-19 16:37:09,121 - INFO - test_log.py[:27] - python10 - Start
+2018-11-19 16:37:09,121 - INFO - test_log.py[:27] - python10 - 正在执行第9条测试用例：正常登陆，参数：{"mobilephone": "13433333341", "pwd": "123456", "regname": "test_zy"}
+2018-11-19 16:37:09,181 - INFO - test_log.py[:27] - python10 - 正在进行POST请求
+2018-11-19 16:37:09,181 - INFO - test_log.py[:27] - python10 - 测试请求的结果是{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-11-19 16:37:09,181 - INFO - test_log.py[:27] - python10 - 测试结果是:<Response [200]>
+2018-11-19 16:37:09,181 - INFO - test_log.py[:27] - python10 - 测试通过
+2018-11-19 16:37:09,211 - INFO - test_log.py[:27] - python10 - End
+2018-11-19 16:37:09,211 - INFO - test_log.py[:27] - python10 - Start
+2018-11-19 16:37:09,211 - INFO - test_log.py[:27] - python10 - 正在执行第10条测试用例：正常充值，参数：{"mobilephone": "13433333341", "amount": "12"}
+2018-11-19 16:37:09,291 - INFO - test_log.py[:27] - python10 - 正在进行POST请求
+2018-11-19 16:37:09,301 - INFO - test_log.py[:27] - python10 - 测试请求的结果是{"status":1,"code":"10001","data":{"id":38126,"regname":"test_zy","pwd":"E10ADC3949BA59ABBE56E057F20F883E","mobilephone":"13433333341","leaveamount":"156.00","type":"1","regtime":"2018-10-24 10:43:13.0"},"msg":"充值成功"}
+2018-11-19 16:37:09,301 - INFO - test_log.py[:27] - python10 - 测试结果是:<Response [200]>
+2018-11-19 16:37:09,301 - INFO - test_log.py[:27] - python10 - 测试通过
+2018-11-19 16:37:09,331 - INFO - test_log.py[:27] - python10 - End

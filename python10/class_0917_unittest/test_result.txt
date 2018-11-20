@@ -1,0 +1,8 @@
+test_add_two_negative (class_0917_unittest.class_unittest_01.TestAdd) ... ok
+test_add_two_positive (class_0917_unittest.class_unittest_01.TestAdd) ... ok
+test_add_two_zero (class_0917_unittest.class_unittest_01.TestAdd) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.001s
+
+OK

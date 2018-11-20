@@ -1,0 +1,6 @@
+[
+  "zy.py::TestJisuanqi::test_add",
+  "zy.py::TestJisuanqi::test_div",
+  "zy.py::TestJisuanqi::test_mul",
+  "zy.py::TestJisuanqi::test_sub"
+]
