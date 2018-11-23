@@ -1,5 +1,5 @@
 import unittest
-from interface_test.common.do_excel import Do_Excel
+from interface_test.common.do_excel import DoExcel
 from ddt import ddt,data  # 导入单元测试框架
 from interface_test.common.read_config import ReadConfig
 from interface_test.common.api_request import HttpRequest
@@ -9,7 +9,7 @@ from interface_test.common.test_log import MyLog
 # 加载测试数据
 button = ReadConfig().read_config(project_path.config_path, 'CASE_LIST', 'button')
 case_id_list = ReadConfig().read_config(project_path.config_path, 'CASE_LIST', 'case_id_list')
-test_data = Do_Excel(project_path.test_data_path).read_data(button, case_id_list)
+test_data = DoExcel(project_path.test_data_path,'register').read_data(button, case_id_list)
 
 login_cookies = None
 
@@ -17,7 +17,7 @@ login_cookies = None
 @ddt
 class TestApi(unittest.TestCase):
     def setUp(self):
-        self.wb = Do_Excel(project_path.test_data_path)
+        self.wb = DoExcel(project_path.test_data_path,'register')
         self.logger = MyLog()
         self.logger.info('Start')
 

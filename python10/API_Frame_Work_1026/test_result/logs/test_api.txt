@@ -1,0 +1,1191 @@
+2018-10-24 11:21:58,440-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:21:58,452-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-24 11:21:58,464-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13755127763","pwd":"123456"}
+2018-10-24 11:21:58,553-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-24 11:21:58,561-INFO-my_log.py-python10-日志信息:测试结果是：{'code': '10001', 'msg': '登录成功', 'data': None, 'status': 1}
+2018-10-24 11:21:58,788-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:21:58,802-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:21:58,813-INFO-my_log.py-python10-日志信息:正在运行第2条用例：加标
+2018-10-24 11:21:58,826-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","title":"23526to_add_loan", "amount" : "10000","loanRate":"12.0","loanTerm":"3","loanDateType":"0","repaymemtWay":"11","biddingDays":"5"}
+2018-10-24 11:21:58,932-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:21:58,949-INFO-my_log.py-python10-日志信息:测试结果是：{'code': '10001', 'msg': '加标成功', 'data': None, 'status': 1}
+2018-10-24 11:21:59,245-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:21:59,251-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:21:59,257-INFO-my_log.py-python10-日志信息:正在运行第3条用例：审核
+2018-10-24 11:21:59,263-INFO-my_log.py-python10-日志信息:测试数据是:{"id" : "${loan_id}", "status" : "4"}
+2018-10-24 11:21:59,745-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:21:59,756-INFO-my_log.py-python10-日志信息:测试结果是：{'code': '10001', 'msg': '更新状态成功：竞标开始，当前标为竞标中状态', 'data': None, 'status': 1}
+2018-10-24 11:22:00,059-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:22:00,075-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:22:00,088-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-24 11:22:00,105-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"123456"}
+2018-10-24 11:22:00,185-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-24 11:22:00,198-INFO-my_log.py-python10-日志信息:测试结果是：{'code': '10001', 'msg': '登录成功', 'data': None, 'status': 1}
+2018-10-24 11:22:00,483-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:22:00,498-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:22:00,511-INFO-my_log.py-python10-日志信息:正在运行第2条用例：正常投资
+2018-10-24 11:22:00,525-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"${loan_id}","amount":"100"}
+2018-10-24 11:22:01,029-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:22:01,042-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:22:01,066-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:22:01,078-INFO-my_log.py-python10-日志信息:正在运行第3条用例：不输入投资金额
+2018-10-24 11:22:01,091-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"${loan_id}","amount":""}
+2018-10-24 11:22:01,639-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:22:01,653-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:22:01,670-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:22:01,684-INFO-my_log.py-python10-日志信息:正在运行第4条用例：投资金额为负数
+2018-10-24 11:22:01,699-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"${loan_id}","amount":"-100"}
+2018-10-24 11:22:02,174-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-24 11:22:02,188-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:24:43,201-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:24:43,207-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-24 11:24:43,212-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13755127763","pwd":"123456"}
+2018-10-24 11:24:43,296-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-24 11:24:43,318-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '登录成功', 'code': '10001', 'status': 1, 'data': None}
+2018-10-24 11:24:43,447-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:24:43,464-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:24:43,476-INFO-my_log.py-python10-日志信息:正在运行第2条用例：加标
+2018-10-24 11:24:43,488-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","title":"23526to_add_loan", "amount" : "10000","loanRate":"12.0","loanTerm":"3","loanDateType":"0","repaymemtWay":"11","biddingDays":"5"}
+2018-10-24 11:24:43,573-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:24:43,585-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '加标成功', 'code': '10001', 'status': 1, 'data': None}
+2018-10-24 11:24:43,768-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:24:43,774-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:24:43,780-INFO-my_log.py-python10-日志信息:正在运行第3条用例：审核
+2018-10-24 11:24:43,785-INFO-my_log.py-python10-日志信息:测试数据是:{"id" : "${loan_id}", "status" : "4"}
+2018-10-24 11:24:44,301-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:24:44,313-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '更新状态成功：竞标开始，当前标为竞标中状态', 'code': '10001', 'status': 1, 'data': None}
+2018-10-24 11:24:44,481-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:24:44,487-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:24:44,491-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-24 11:24:44,496-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"123456"}
+2018-10-24 11:24:44,589-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-24 11:24:44,602-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '登录成功', 'code': '10001', 'status': 1, 'data': None}
+2018-10-24 11:24:44,805-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:24:44,811-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:24:44,817-INFO-my_log.py-python10-日志信息:正在运行第2条用例：正常投资
+2018-10-24 11:24:44,822-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"${loan_id}","amount":"100"}
+2018-10-24 11:24:45,233-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:24:45,246-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:24:45,267-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:24:45,280-INFO-my_log.py-python10-日志信息:正在运行第3条用例：不输入投资金额
+2018-10-24 11:24:45,292-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"${loan_id}","amount":""}
+2018-10-24 11:24:45,704-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:24:45,717-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:24:45,733-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:24:45,746-INFO-my_log.py-python10-日志信息:正在运行第4条用例：投资金额为负数
+2018-10-24 11:24:45,759-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"${loan_id}","amount":"-100"}
+2018-10-24 11:24:46,337-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-24 11:24:46,350-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:26:08,456-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:26:08,461-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-24 11:26:08,464-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13755127763","pwd":"123456"}
+2018-10-24 11:26:08,552-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-24 11:26:08,562-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'status': 1, 'msg': '登录成功', 'code': '10001'}
+2018-10-24 11:26:08,709-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:26:08,715-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:26:08,720-INFO-my_log.py-python10-日志信息:正在运行第2条用例：加标
+2018-10-24 11:26:08,726-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","title":"23526to_add_loan", "amount" : "10000","loanRate":"12.0","loanTerm":"3","loanDateType":"0","repaymemtWay":"11","biddingDays":"5"}
+2018-10-24 11:26:08,813-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:26:08,827-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'status': 1, 'msg': '加标成功', 'code': '10001'}
+2018-10-24 11:26:09,104-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:26:09,120-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:26:09,133-INFO-my_log.py-python10-日志信息:正在运行第3条用例：审核
+2018-10-24 11:26:09,595-INFO-my_log.py-python10-日志信息:测试数据是:{"id" : "4554", "status" : "4"}
+2018-10-24 11:26:09,666-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:26:09,682-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'status': 1, 'msg': '更新状态成功：竞标开始，当前标为竞标中状态', 'code': '10001'}
+2018-10-24 11:26:09,923-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:26:09,930-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:26:09,935-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-24 11:26:09,940-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"123456"}
+2018-10-24 11:26:10,034-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-24 11:26:10,049-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'status': 1, 'msg': '登录成功', 'code': '10001'}
+2018-10-24 11:26:10,384-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:26:10,394-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:26:10,403-INFO-my_log.py-python10-日志信息:正在运行第2条用例：正常投资
+2018-10-24 11:26:10,889-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"4554","amount":"100"}
+2018-10-24 11:26:10,962-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:26:10,977-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:26:10,999-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:26:11,013-INFO-my_log.py-python10-日志信息:正在运行第3条用例：不输入投资金额
+2018-10-24 11:26:11,516-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"4554","amount":""}
+2018-10-24 11:26:11,609-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:26:11,623-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:26:11,643-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:26:11,657-INFO-my_log.py-python10-日志信息:正在运行第4条用例：投资金额为负数
+2018-10-24 11:26:12,082-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"4554","amount":"-100"}
+2018-10-24 11:26:12,145-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-24 11:26:12,159-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:27:39,325-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:27:39,340-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-24 11:27:39,354-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13755127763","pwd":"123456"}
+2018-10-24 11:27:39,443-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-24 11:27:39,465-INFO-my_log.py-python10-日志信息:http请求的结果是:{'msg': '登录成功', 'status': 1, 'code': '10001', 'data': None}
+2018-10-24 11:27:39,481-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '登录成功', 'status': 1, 'code': '10001', 'data': None}
+2018-10-24 11:27:39,789-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:27:39,799-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:27:39,807-INFO-my_log.py-python10-日志信息:正在运行第2条用例：加标
+2018-10-24 11:27:39,815-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","title":"23526to_add_loan", "amount" : "10000","loanRate":"12.0","loanTerm":"3","loanDateType":"0","repaymemtWay":"11","biddingDays":"5"}
+2018-10-24 11:27:39,922-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:27:39,937-INFO-my_log.py-python10-日志信息:http请求的结果是:{'msg': '加标成功', 'status': 1, 'code': '10001', 'data': None}
+2018-10-24 11:27:39,952-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '加标成功', 'status': 1, 'code': '10001', 'data': None}
+2018-10-24 11:27:40,198-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:27:40,208-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:27:40,215-INFO-my_log.py-python10-日志信息:正在运行第3条用例：审核
+2018-10-24 11:27:40,601-INFO-my_log.py-python10-日志信息:测试数据是:{"id" : "4555", "status" : "4"}
+2018-10-24 11:27:40,704-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:27:40,719-INFO-my_log.py-python10-日志信息:http请求的结果是:{'msg': '更新状态成功：竞标开始，当前标为竞标中状态', 'status': 1, 'code': '10001', 'data': None}
+2018-10-24 11:27:40,734-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '更新状态成功：竞标开始，当前标为竞标中状态', 'status': 1, 'code': '10001', 'data': None}
+2018-10-24 11:27:40,955-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:27:40,961-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:27:40,967-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-24 11:27:40,980-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"123456"}
+2018-10-24 11:27:41,058-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-24 11:27:41,073-INFO-my_log.py-python10-日志信息:http请求的结果是:{'msg': '登录成功', 'status': 1, 'code': '10001', 'data': None}
+2018-10-24 11:27:41,090-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '登录成功', 'status': 1, 'code': '10001', 'data': None}
+2018-10-24 11:27:41,345-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:27:41,356-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:27:41,366-INFO-my_log.py-python10-日志信息:正在运行第2条用例：正常投资
+2018-10-24 11:27:41,764-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"4555","amount":"100"}
+2018-10-24 11:27:41,858-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:27:41,873-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:27:41,898-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:27:41,913-INFO-my_log.py-python10-日志信息:正在运行第3条用例：不输入投资金额
+2018-10-24 11:27:42,341-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"4555","amount":""}
+2018-10-24 11:27:42,443-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:27:42,457-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:27:42,476-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:27:42,490-INFO-my_log.py-python10-日志信息:正在运行第4条用例：投资金额为负数
+2018-10-24 11:27:42,917-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"4555","amount":"-100"}
+2018-10-24 11:27:43,015-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-24 11:27:43,030-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:28:45,266-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:28:45,272-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-24 11:28:45,277-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13755127763","pwd":"123456"}
+2018-10-24 11:28:45,363-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-24 11:28:45,368-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-24 11:28:45,378-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'msg': '登录成功', 'code': '10001', 'status': 1}
+2018-10-24 11:28:45,498-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:28:45,504-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:28:45,509-INFO-my_log.py-python10-日志信息:正在运行第2条用例：加标
+2018-10-24 11:28:45,515-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","title":"23526to_add_loan", "amount" : "10000","loanRate":"12.0","loanTerm":"3","loanDateType":"0","repaymemtWay":"11","biddingDays":"5"}
+2018-10-24 11:28:45,613-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:28:45,630-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2018-10-24 11:28:45,644-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'msg': '加标成功', 'code': '10001', 'status': 1}
+2018-10-24 11:28:45,927-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:28:45,939-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:28:45,949-INFO-my_log.py-python10-日志信息:正在运行第3条用例：审核
+2018-10-24 11:28:46,390-INFO-my_log.py-python10-日志信息:测试数据是:{"id" : "4556", "status" : "4"}
+2018-10-24 11:28:46,465-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:28:46,480-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"更新状态成功：竞标开始，当前标为竞标中状态"}
+2018-10-24 11:28:46,493-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'msg': '更新状态成功：竞标开始，当前标为竞标中状态', 'code': '10001', 'status': 1}
+2018-10-24 11:28:46,724-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:28:46,732-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:28:46,738-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-24 11:28:46,744-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"123456"}
+2018-10-24 11:28:46,824-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-24 11:28:46,829-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-24 11:28:46,835-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'msg': '登录成功', 'code': '10001', 'status': 1}
+2018-10-24 11:28:46,939-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:28:46,947-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:28:46,952-INFO-my_log.py-python10-日志信息:正在运行第2条用例：正常投资
+2018-10-24 11:28:47,300-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"4556","amount":"100"}
+2018-10-24 11:28:47,394-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:28:47,408-INFO-my_log.py-python10-日志信息:http请求的结果是:<html><head><title>Apache Tomcat/6.0.53 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.53</h3></body></html>
+2018-10-24 11:28:47,426-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:28:47,455-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:28:47,472-INFO-my_log.py-python10-日志信息:正在运行第3条用例：不输入投资金额
+2018-10-24 11:28:47,902-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"4556","amount":""}
+2018-10-24 11:28:47,991-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:28:48,009-INFO-my_log.py-python10-日志信息:http请求的结果是:<html><head><title>Apache Tomcat/6.0.53 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.53</h3></body></html>
+2018-10-24 11:28:48,027-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:28:48,047-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:28:48,065-INFO-my_log.py-python10-日志信息:正在运行第4条用例：投资金额为负数
+2018-10-24 11:28:48,487-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"4556","amount":"-100"}
+2018-10-24 11:28:48,562-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-24 11:28:48,580-INFO-my_log.py-python10-日志信息:http请求的结果是:<html><head><title>Apache Tomcat/6.0.53 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.53</h3></body></html>
+2018-10-24 11:28:48,599-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:29:21,569-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:29:21,574-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-24 11:29:21,580-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13755127763","pwd":"123456"}
+2018-10-24 11:29:21,685-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-24 11:29:21,701-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-24 11:29:21,714-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '登录成功', 'code': '10001', 'status': 1, 'data': None}
+2018-10-24 11:29:21,944-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:29:21,961-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:29:21,976-INFO-my_log.py-python10-日志信息:正在运行第2条用例：加标
+2018-10-24 11:29:21,990-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","title":"23526to_add_loan", "amount" : "10000","loanRate":"12.0","loanTerm":"3","loanDateType":"0","repaymemtWay":"11","biddingDays":"5"}
+2018-10-24 11:29:22,100-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:29:22,113-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2018-10-24 11:29:22,127-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '加标成功', 'code': '10001', 'status': 1, 'data': None}
+2018-10-24 11:29:22,355-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:29:22,372-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:29:22,385-INFO-my_log.py-python10-日志信息:正在运行第3条用例：审核
+2018-10-24 11:29:22,856-INFO-my_log.py-python10-日志信息:测试数据是:{"id" : "4557", "status" : "4"}
+2018-10-24 11:29:22,947-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:29:22,961-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"更新状态成功：竞标开始，当前标为竞标中状态"}
+2018-10-24 11:29:22,975-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '更新状态成功：竞标开始，当前标为竞标中状态', 'code': '10001', 'status': 1, 'data': None}
+2018-10-24 11:29:23,298-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:29:23,314-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:29:23,328-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-24 11:29:23,343-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"123456"}
+2018-10-24 11:29:23,429-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-24 11:29:23,444-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-24 11:29:23,458-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '登录成功', 'code': '10001', 'status': 1, 'data': None}
+2018-10-24 11:29:23,644-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:29:23,650-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:29:23,656-INFO-my_log.py-python10-日志信息:正在运行第2条用例：正常投资
+2018-10-24 11:29:23,951-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"4557","amount":"100"}
+2018-10-24 11:29:24,069-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:29:24,084-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2018-10-24 11:29:24,099-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '竞标成功', 'code': '10001', 'status': 1, 'data': None}
+2018-10-24 11:29:24,366-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:29:24,382-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:29:24,396-INFO-my_log.py-python10-日志信息:正在运行第3条用例：不输入投资金额
+2018-10-24 11:29:24,764-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"4557","amount":""}
+2018-10-24 11:29:24,838-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:29:24,855-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"11003","data":null,"msg":"参数错误:所有参数都不能为空"}
+2018-10-24 11:29:24,868-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '参数错误:所有参数都不能为空', 'code': '11003', 'status': 0, 'data': None}
+2018-10-24 11:29:24,882-WARNING-my_log.py-python10-日志信息:请求出错了，错误是'20117' != '11003'
+- 20117
++ 11003
+
+2018-10-24 11:29:25,101-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:29:25,108-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:29:25,113-INFO-my_log.py-python10-日志信息:正在运行第4条用例：投资金额为负数
+2018-10-24 11:29:25,536-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"4557","amount":"-100"}
+2018-10-24 11:29:25,636-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-24 11:29:25,653-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2018-10-24 11:29:25,666-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '参数错误，投资金额必须是能被100整除的正整数', 'code': '11007', 'status': 0, 'data': None}
+2018-10-24 11:29:25,683-WARNING-my_log.py-python10-日志信息:请求出错了，错误是'20116' != '11007'
+- 20116
++ 11007
+
+2018-10-24 11:29:25,865-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:30:02,723-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:30:02,740-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-24 11:30:02,754-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13755127763","pwd":"123456"}
+2018-10-24 11:30:02,843-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-24 11:30:02,858-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-24 11:30:02,876-INFO-my_log.py-python10-日志信息:测试结果是：{'code': '10001', 'data': None, 'msg': '登录成功', 'status': 1}
+2018-10-24 11:30:03,059-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:30:03,065-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:30:03,071-INFO-my_log.py-python10-日志信息:正在运行第2条用例：加标
+2018-10-24 11:30:03,075-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","title":"23526to_add_loan", "amount" : "10000","loanRate":"12.0","loanTerm":"3","loanDateType":"0","repaymemtWay":"11","biddingDays":"5"}
+2018-10-24 11:30:03,158-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:30:03,163-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2018-10-24 11:30:03,171-INFO-my_log.py-python10-日志信息:测试结果是：{'code': '10001', 'data': None, 'msg': '加标成功', 'status': 1}
+2018-10-24 11:30:03,275-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:30:03,280-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:30:03,285-INFO-my_log.py-python10-日志信息:正在运行第3条用例：审核
+2018-10-24 11:30:03,657-INFO-my_log.py-python10-日志信息:测试数据是:{"id" : "4558", "status" : "4"}
+2018-10-24 11:30:03,727-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:30:03,733-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"更新状态成功：竞标开始，当前标为竞标中状态"}
+2018-10-24 11:30:03,740-INFO-my_log.py-python10-日志信息:测试结果是：{'code': '10001', 'data': None, 'msg': '更新状态成功：竞标开始，当前标为竞标中状态', 'status': 1}
+2018-10-24 11:30:03,850-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:30:03,856-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:30:03,866-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-24 11:30:03,879-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"123456"}
+2018-10-24 11:30:03,962-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-24 11:30:03,979-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-24 11:30:03,995-INFO-my_log.py-python10-日志信息:测试结果是：{'code': '10001', 'data': None, 'msg': '登录成功', 'status': 1}
+2018-10-24 11:30:04,200-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:30:04,206-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:30:04,212-INFO-my_log.py-python10-日志信息:正在运行第2条用例：正常投资
+2018-10-24 11:30:04,697-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"4558","amount":"100"}
+2018-10-24 11:30:04,824-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:30:04,840-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2018-10-24 11:30:04,855-INFO-my_log.py-python10-日志信息:测试结果是：{'code': '10001', 'data': None, 'msg': '竞标成功', 'status': 1}
+2018-10-24 11:30:05,115-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:30:05,125-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:30:05,134-INFO-my_log.py-python10-日志信息:正在运行第3条用例：不输入投资金额
+2018-10-24 11:30:05,516-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"4558","amount":""}
+2018-10-24 11:30:05,586-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-24 11:30:05,594-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"11003","data":null,"msg":"参数错误:所有参数都不能为空"}
+2018-10-24 11:30:05,609-INFO-my_log.py-python10-日志信息:测试结果是：{'code': '11003', 'data': None, 'msg': '参数错误:所有参数都不能为空', 'status': 0}
+2018-10-24 11:30:05,772-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-24 11:30:05,779-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-24 11:30:05,788-INFO-my_log.py-python10-日志信息:正在运行第4条用例：投资金额为负数
+2018-10-24 11:30:06,146-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"4558","amount":"-100"}
+2018-10-24 11:30:06,225-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-24 11:30:06,240-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2018-10-24 11:30:06,255-INFO-my_log.py-python10-日志信息:测试结果是：{'code': '11007', 'data': None, 'msg': '参数错误，投资金额必须是能被100整除的正整数', 'status': 0}
+2018-10-24 11:30:06,538-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:28:42,805-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:28:42,900-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:28:42,933-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:28:42,948-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:28:42,963-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:28:42,977-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:28:42,992-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:28:43,002-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:28:43,013-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:28:43,024-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:28:43,031-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:28:43,038-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:28:43,045-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:28:43,052-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:30:23,000-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:30:23,004-INFO-my_log.py-python10-日志信息:正在运行第1条用例：正常登录
+2018-10-25 11:30:23,009-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"123456"}
+2018-10-25 11:30:23,513-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:30:23,527-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-25 11:30:23,541-INFO-my_log.py-python10-日志信息:测试结果是：{'code': '10001', 'data': None, 'msg': '登录成功', 'status': 1}
+2018-10-25 11:30:23,726-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:30:23,730-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:30:23,735-INFO-my_log.py-python10-日志信息:正在运行第2条用例：不输入手机号
+2018-10-25 11:30:23,740-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"","pwd":"123456"}
+2018-10-25 11:30:23,821-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:30:23,835-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2018-10-25 11:30:23,849-INFO-my_log.py-python10-日志信息:测试结果是：{'code': '20103', 'data': None, 'msg': '手机号不能为空', 'status': 0}
+2018-10-25 11:30:23,969-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:30:23,973-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:30:23,978-INFO-my_log.py-python10-日志信息:正在运行第3条用例：不输入密码
+2018-10-25 11:30:23,983-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":""}
+2018-10-25 11:30:24,050-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:30:24,064-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2018-10-25 11:30:24,079-INFO-my_log.py-python10-日志信息:测试结果是：{'code': '20103', 'data': None, 'msg': '密码不能为空', 'status': 0}
+2018-10-25 11:30:24,204-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:30:24,208-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:30:24,213-INFO-my_log.py-python10-日志信息:正在运行第4条用例：输入错误的密码
+2018-10-25 11:30:24,218-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"12345678"}
+2018-10-25 11:30:24,307-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:30:24,316-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2018-10-25 11:30:24,324-INFO-my_log.py-python10-日志信息:测试结果是：{'code': '20111', 'data': None, 'msg': '用户名或密码错误', 'status': 0}
+2018-10-25 11:30:24,441-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:30:24,445-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:30:24,451-INFO-my_log.py-python10-日志信息:正在运行第5条用例：输入错误的手机号
+2018-10-25 11:30:24,459-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"{","pwd":"123456"}
+2018-10-25 11:30:24,553-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:30:24,568-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2018-10-25 11:30:24,583-INFO-my_log.py-python10-日志信息:测试结果是：{'code': '20111', 'data': None, 'msg': '用户名或密码错误', 'status': 0}
+2018-10-25 11:30:24,711-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:30:24,716-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:30:24,721-INFO-my_log.py-python10-日志信息:正在运行第id条用例：description
+2018-10-25 11:30:24,726-INFO-my_log.py-python10-日志信息:测试数据是:param
+2018-10-25 11:30:24,732-WARNING-my_log.py-python10-日志信息:get请求出现了异常:Invalid URL 'url': No schema supplied. Perhaps you meant http://url?
+2018-10-25 11:30:24,737-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:30:24,853-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:30:24,870-INFO-my_log.py-python10-日志信息:正在运行第1条用例：正常注册
+2018-10-25 11:30:24,885-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670142","pwd":"123456","regname":"lemonban001"}
+2018-10-25 11:30:25,006-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:30:25,021-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2018-10-25 11:30:25,039-INFO-my_log.py-python10-日志信息:测试结果是：{'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+2018-10-25 11:30:25,155-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:33:11,826-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:33:11,832-INFO-my_log.py-python10-日志信息:正在运行第id条用例：description
+2018-10-25 11:33:11,837-INFO-my_log.py-python10-日志信息:测试数据是:param
+2018-10-25 11:33:11,844-WARNING-my_log.py-python10-日志信息:get请求出现了异常:Invalid URL 'url': No schema supplied. Perhaps you meant http://url?
+2018-10-25 11:33:11,851-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:33:11,857-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:33:11,863-INFO-my_log.py-python10-日志信息:正在运行第1条用例：正常注册
+2018-10-25 11:33:11,867-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670144","pwd":"123456","regname":"lemonban001"}
+2018-10-25 11:33:11,979-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:33:11,988-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2018-10-25 11:33:11,997-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'msg': '注册成功', 'status': 1, 'code': '10001'}
+2018-10-25 11:33:12,116-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:33:12,121-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:33:12,126-INFO-my_log.py-python10-日志信息:正在运行第1条用例：正常登录
+2018-10-25 11:33:12,131-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"123456"}
+2018-10-25 11:33:12,198-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:33:12,213-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-25 11:33:12,231-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'msg': '登录成功', 'status': 1, 'code': '10001'}
+2018-10-25 11:33:12,359-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:33:12,365-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:33:12,370-INFO-my_log.py-python10-日志信息:正在运行第2条用例：不输入手机号
+2018-10-25 11:33:12,375-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"","pwd":"123456"}
+2018-10-25 11:33:12,445-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:33:12,458-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2018-10-25 11:33:12,466-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'msg': '手机号不能为空', 'status': 0, 'code': '20103'}
+2018-10-25 11:33:12,558-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:33:12,563-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:33:12,568-INFO-my_log.py-python10-日志信息:正在运行第3条用例：不输入密码
+2018-10-25 11:33:12,574-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":""}
+2018-10-25 11:33:12,656-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:33:12,665-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2018-10-25 11:33:12,675-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'msg': '密码不能为空', 'status': 0, 'code': '20103'}
+2018-10-25 11:33:12,793-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:33:12,797-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:33:12,803-INFO-my_log.py-python10-日志信息:正在运行第4条用例：输入错误的密码
+2018-10-25 11:33:12,807-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"12345678"}
+2018-10-25 11:33:12,878-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:33:12,895-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2018-10-25 11:33:12,908-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'msg': '用户名或密码错误', 'status': 0, 'code': '20111'}
+2018-10-25 11:33:13,026-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:33:13,031-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:33:13,037-INFO-my_log.py-python10-日志信息:正在运行第5条用例：输入错误的手机号
+2018-10-25 11:33:13,042-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"{","pwd":"123456"}
+2018-10-25 11:33:13,141-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:33:13,155-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2018-10-25 11:33:13,172-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'msg': '用户名或密码错误', 'status': 0, 'code': '20111'}
+2018-10-25 11:33:13,288-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:35:50,143-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:35:50,148-INFO-my_log.py-python10-日志信息:正在运行第id条用例：description
+2018-10-25 11:35:50,152-INFO-my_log.py-python10-日志信息:测试数据是:param
+2018-10-25 11:35:50,160-WARNING-my_log.py-python10-日志信息:get请求出现了异常:Invalid URL 'url': No schema supplied. Perhaps you meant http://url?
+2018-10-25 11:35:50,166-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:35:50,172-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:35:50,177-INFO-my_log.py-python10-日志信息:正在运行第1条用例：正常注册
+2018-10-25 11:35:50,182-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670145","pwd":"123456","regname":"lemonban001"}
+2018-10-25 11:35:50,256-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:35:50,270-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2018-10-25 11:35:50,280-INFO-my_log.py-python10-日志信息:测试结果是：{'code': '10001', 'msg': '注册成功', 'status': 1, 'data': None}
+2018-10-25 11:35:50,378-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:35:50,383-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:35:50,387-INFO-my_log.py-python10-日志信息:正在运行第1条用例：正常登录
+2018-10-25 11:35:50,392-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"123456"}
+2018-10-25 11:35:50,464-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:35:50,479-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-25 11:35:50,493-INFO-my_log.py-python10-日志信息:测试结果是：{'code': '10001', 'msg': '登录成功', 'status': 1, 'data': None}
+2018-10-25 11:35:50,585-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:35:50,589-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:35:50,594-INFO-my_log.py-python10-日志信息:正在运行第2条用例：不输入手机号
+2018-10-25 11:35:50,599-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"","pwd":"123456"}
+2018-10-25 11:35:50,663-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:35:50,677-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2018-10-25 11:35:50,691-INFO-my_log.py-python10-日志信息:测试结果是：{'code': '20103', 'msg': '手机号不能为空', 'status': 0, 'data': None}
+2018-10-25 11:35:50,840-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:35:50,852-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:35:50,860-INFO-my_log.py-python10-日志信息:正在运行第3条用例：不输入密码
+2018-10-25 11:35:50,866-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":""}
+2018-10-25 11:35:50,932-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:35:50,946-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2018-10-25 11:35:50,962-INFO-my_log.py-python10-日志信息:测试结果是：{'code': '20103', 'msg': '密码不能为空', 'status': 0, 'data': None}
+2018-10-25 11:35:51,068-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:35:51,073-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:35:51,079-INFO-my_log.py-python10-日志信息:正在运行第4条用例：输入错误的密码
+2018-10-25 11:35:51,084-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"12345678"}
+2018-10-25 11:35:51,382-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:35:51,390-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2018-10-25 11:35:51,398-INFO-my_log.py-python10-日志信息:测试结果是：{'code': '20111', 'msg': '用户名或密码错误', 'status': 0, 'data': None}
+2018-10-25 11:35:51,522-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:35:51,527-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:35:51,532-INFO-my_log.py-python10-日志信息:正在运行第5条用例：输入错误的手机号
+2018-10-25 11:35:51,537-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"{","pwd":"123456"}
+2018-10-25 11:35:51,624-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:35:51,629-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2018-10-25 11:35:51,639-INFO-my_log.py-python10-日志信息:测试结果是：{'code': '20111', 'msg': '用户名或密码错误', 'status': 0, 'data': None}
+2018-10-25 11:35:51,908-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:37:15,966-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:37:15,971-INFO-my_log.py-python10-日志信息:正在运行第1条用例：正常登录
+2018-10-25 11:37:15,976-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"123456"}
+2018-10-25 11:37:16,086-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:37:16,101-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-25 11:37:16,117-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '登录成功', 'status': 1, 'data': None, 'code': '10001'}
+2018-10-25 11:37:16,244-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:37:16,249-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:37:16,253-INFO-my_log.py-python10-日志信息:正在运行第2条用例：不输入手机号
+2018-10-25 11:37:16,259-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"","pwd":"123456"}
+2018-10-25 11:37:16,321-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:37:16,338-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2018-10-25 11:37:16,353-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '手机号不能为空', 'status': 0, 'data': None, 'code': '20103'}
+2018-10-25 11:37:16,476-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:37:16,481-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:37:16,487-INFO-my_log.py-python10-日志信息:正在运行第3条用例：不输入密码
+2018-10-25 11:37:16,494-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":""}
+2018-10-25 11:37:16,582-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:37:16,587-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2018-10-25 11:37:16,592-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '密码不能为空', 'status': 0, 'data': None, 'code': '20103'}
+2018-10-25 11:37:16,729-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:37:16,734-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:37:16,740-INFO-my_log.py-python10-日志信息:正在运行第4条用例：输入错误的密码
+2018-10-25 11:37:16,745-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"12345678"}
+2018-10-25 11:37:16,841-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:37:16,856-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2018-10-25 11:37:16,872-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '用户名或密码错误', 'status': 0, 'data': None, 'code': '20111'}
+2018-10-25 11:37:16,991-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:37:16,996-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:37:17,002-INFO-my_log.py-python10-日志信息:正在运行第5条用例：输入错误的手机号
+2018-10-25 11:37:17,007-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"{","pwd":"123456"}
+2018-10-25 11:37:17,103-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:37:17,112-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2018-10-25 11:37:17,120-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '用户名或密码错误', 'status': 0, 'data': None, 'code': '20111'}
+2018-10-25 11:37:17,227-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:37:17,232-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:37:17,238-INFO-my_log.py-python10-日志信息:正在运行第1条用例：正常注册
+2018-10-25 11:37:17,244-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670147","pwd":"123456","regname":"lemonban001"}
+2018-10-25 11:37:17,336-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:37:17,354-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2018-10-25 11:37:17,370-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '注册成功', 'status': 1, 'data': None, 'code': '10001'}
+2018-10-25 11:37:17,574-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:37:17,580-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:37:17,585-INFO-my_log.py-python10-日志信息:正在运行第2条用例：重复注册
+2018-10-25 11:37:17,590-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670147","pwd":"123456","regname":"lemonban002"}
+2018-10-25 11:37:17,656-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:37:17,670-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2018-10-25 11:37:17,679-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '手机号码已被注册', 'status': 0, 'data': None, 'code': '20110'}
+2018-10-25 11:37:17,792-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:43:40,070-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:43:40,074-INFO-my_log.py-python10-日志信息:正在运行第1条用例：正常注册
+2018-10-25 11:43:40,079-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670148","pwd":"123456","regname":"lemonban001"}
+2018-10-25 11:43:40,187-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:43:40,201-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2018-10-25 11:43:40,214-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'status': 1, 'msg': '注册成功', 'code': '10001'}
+2018-10-25 11:43:40,328-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:43:40,332-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:43:40,337-INFO-my_log.py-python10-日志信息:正在运行第2条用例：重复注册
+2018-10-25 11:43:40,342-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670148","pwd":"123456","regname":"lemonban002"}
+2018-10-25 11:43:40,406-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:43:40,416-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2018-10-25 11:43:40,426-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'status': 0, 'msg': '手机号码已被注册', 'code': '20110'}
+2018-10-25 11:43:40,541-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:43:40,546-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:43:40,552-INFO-my_log.py-python10-日志信息:正在运行第1条用例：正常登录
+2018-10-25 11:43:40,557-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"123456"}
+2018-10-25 11:43:40,622-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:43:40,636-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-25 11:43:40,647-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'status': 1, 'msg': '登录成功', 'code': '10001'}
+2018-10-25 11:43:40,751-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:43:40,755-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:43:40,762-INFO-my_log.py-python10-日志信息:正在运行第2条用例：不输入手机号
+2018-10-25 11:43:40,767-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"","pwd":"123456"}
+2018-10-25 11:43:40,858-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:43:40,874-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2018-10-25 11:43:40,890-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'status': 0, 'msg': '手机号不能为空', 'code': '20103'}
+2018-10-25 11:43:41,051-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:43:41,057-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:43:41,063-INFO-my_log.py-python10-日志信息:正在运行第3条用例：不输入密码
+2018-10-25 11:43:41,069-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":""}
+2018-10-25 11:43:41,128-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:43:41,135-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2018-10-25 11:43:41,149-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'status': 0, 'msg': '密码不能为空', 'code': '20103'}
+2018-10-25 11:43:41,283-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:43:41,288-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:43:41,294-INFO-my_log.py-python10-日志信息:正在运行第4条用例：输入错误的密码
+2018-10-25 11:43:41,300-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"12345678"}
+2018-10-25 11:43:41,362-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:43:41,368-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2018-10-25 11:43:41,374-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'status': 0, 'msg': '用户名或密码错误', 'code': '20111'}
+2018-10-25 11:43:41,467-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:43:41,472-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:43:41,478-INFO-my_log.py-python10-日志信息:正在运行第5条用例：输入错误的手机号
+2018-10-25 11:43:41,483-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"{","pwd":"123456"}
+2018-10-25 11:43:41,571-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:43:41,587-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2018-10-25 11:43:41,605-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'status': 0, 'msg': '用户名或密码错误', 'code': '20111'}
+2018-10-25 11:43:41,723-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:44:59,693-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:44:59,706-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-25 11:44:59,711-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"123456"}
+2018-10-25 11:44:59,809-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:44:59,824-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-25 11:44:59,834-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '10001', 'status': 1, 'msg': '登录成功'}
+2018-10-25 11:44:59,937-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:44:59,942-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:44:59,947-INFO-my_log.py-python10-日志信息:正在运行第2条用例：正常投资
+2018-10-25 11:44:59,952-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"${loan_id}","amount":"100"}
+2018-10-25 11:45:00,322-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:45:00,338-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2018-10-25 11:45:00,353-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '10001', 'status': 1, 'msg': '竞标成功'}
+2018-10-25 11:45:00,475-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:45:00,480-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:45:00,485-INFO-my_log.py-python10-日志信息:正在运行第3条用例：不输入投资金额
+2018-10-25 11:45:00,490-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"${loan_id}","amount":""}
+2018-10-25 11:45:00,713-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:45:00,729-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"11003","data":null,"msg":"参数错误:所有参数都不能为空"}
+2018-10-25 11:45:00,753-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '11003', 'status': 0, 'msg': '参数错误:所有参数都不能为空'}
+2018-10-25 11:45:00,987-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:45:01,004-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:45:01,021-INFO-my_log.py-python10-日志信息:正在运行第4条用例：投资金额为负数
+2018-10-25 11:45:01,031-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"${loan_id}","amount":"-100"}
+2018-10-25 11:45:01,425-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:45:01,441-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2018-10-25 11:45:01,465-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '11007', 'status': 0, 'msg': '参数错误，投资金额必须是能被100整除的正整数'}
+2018-10-25 11:45:01,644-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:45:01,648-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:45:01,654-INFO-my_log.py-python10-日志信息:正在运行第1条用例：正常注册
+2018-10-25 11:45:01,659-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670149","pwd":"123456","regname":"lemonban001"}
+2018-10-25 11:45:01,734-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:45:01,747-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2018-10-25 11:45:01,757-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '10001', 'status': 1, 'msg': '注册成功'}
+2018-10-25 11:45:01,872-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:45:01,877-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:45:01,883-INFO-my_log.py-python10-日志信息:正在运行第2条用例：重复注册
+2018-10-25 11:45:01,888-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670149","pwd":"123456","regname":"lemonban002"}
+2018-10-25 11:45:01,983-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:45:01,997-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2018-10-25 11:45:02,008-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '20110', 'status': 0, 'msg': '手机号码已被注册'}
+2018-10-25 11:45:02,121-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:45:02,126-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:45:02,132-INFO-my_log.py-python10-日志信息:正在运行第1条用例：正常登录
+2018-10-25 11:45:02,137-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"123456"}
+2018-10-25 11:45:02,231-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:45:02,246-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-25 11:45:02,257-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '10001', 'status': 1, 'msg': '登录成功'}
+2018-10-25 11:45:02,378-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:45:02,383-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:45:02,388-INFO-my_log.py-python10-日志信息:正在运行第2条用例：不输入手机号
+2018-10-25 11:45:02,393-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"","pwd":"123456"}
+2018-10-25 11:45:02,487-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:45:02,504-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2018-10-25 11:45:02,519-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '20103', 'status': 0, 'msg': '手机号不能为空'}
+2018-10-25 11:45:02,645-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:45:02,650-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:45:02,655-INFO-my_log.py-python10-日志信息:正在运行第3条用例：不输入密码
+2018-10-25 11:45:02,661-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":""}
+2018-10-25 11:45:02,725-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:45:02,741-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2018-10-25 11:45:02,760-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '20103', 'status': 0, 'msg': '密码不能为空'}
+2018-10-25 11:45:02,939-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:45:02,944-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:45:02,949-INFO-my_log.py-python10-日志信息:正在运行第4条用例：输入错误的密码
+2018-10-25 11:45:02,954-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"12345678"}
+2018-10-25 11:45:03,025-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:45:03,042-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2018-10-25 11:45:03,060-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '20111', 'status': 0, 'msg': '用户名或密码错误'}
+2018-10-25 11:45:03,158-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:45:03,163-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:45:03,169-INFO-my_log.py-python10-日志信息:正在运行第5条用例：输入错误的手机号
+2018-10-25 11:45:03,174-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"{","pwd":"123456"}
+2018-10-25 11:45:03,242-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:45:03,251-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2018-10-25 11:45:03,260-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '20111', 'status': 0, 'msg': '用户名或密码错误'}
+2018-10-25 11:45:03,353-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:45:03,357-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:45:03,363-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-25 11:45:03,368-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13755127763","pwd":"123456"}
+2018-10-25 11:45:03,453-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:45:03,459-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-25 11:45:03,467-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '10001', 'status': 1, 'msg': '登录成功'}
+2018-10-25 11:45:03,581-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:45:03,587-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:45:03,593-INFO-my_log.py-python10-日志信息:正在运行第2条用例：加标
+2018-10-25 11:45:03,601-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","title":"23526to_add_loan", "amount" : "10000","loanRate":"12.0","loanTerm":"3","loanDateType":"0","repaymemtWay":"11","biddingDays":"5"}
+2018-10-25 11:45:03,721-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:45:03,726-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2018-10-25 11:45:03,733-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '10001', 'status': 1, 'msg': '加标成功'}
+2018-10-25 11:45:03,847-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:45:03,853-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:45:03,860-INFO-my_log.py-python10-日志信息:正在运行第3条用例：审核
+2018-10-25 11:45:03,867-INFO-my_log.py-python10-日志信息:测试数据是:{"id" : "${loan_id}", "status" : "4"}
+2018-10-25 11:45:04,138-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:45:04,152-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"更新状态成功：竞标开始，当前标为竞标中状态"}
+2018-10-25 11:45:04,167-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '10001', 'status': 1, 'msg': '更新状态成功：竞标开始，当前标为竞标中状态'}
+2018-10-25 11:45:04,296-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:47:35,550-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:47:35,556-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-25 11:47:35,561-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13755127763","pwd":"123456"}
+2018-10-25 11:47:35,632-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:47:35,646-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-25 11:47:35,663-INFO-my_log.py-python10-日志信息:测试结果是：{'status': 1, 'data': None, 'code': '10001', 'msg': '登录成功'}
+2018-10-25 11:47:35,790-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:47:35,795-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:47:35,801-INFO-my_log.py-python10-日志信息:正在运行第2条用例：加标
+2018-10-25 11:47:35,806-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","title":"23526to_add_loan", "amount" : "10000","loanRate":"12.0","loanTerm":"3","loanDateType":"0","repaymemtWay":"11","biddingDays":"5"}
+2018-10-25 11:47:35,884-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:47:35,900-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2018-10-25 11:47:35,915-INFO-my_log.py-python10-日志信息:测试结果是：{'status': 1, 'data': None, 'code': '10001', 'msg': '加标成功'}
+2018-10-25 11:47:36,027-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:47:36,038-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:47:36,050-INFO-my_log.py-python10-日志信息:正在运行第3条用例：审核
+2018-10-25 11:47:36,060-INFO-my_log.py-python10-日志信息:测试数据是:{"id" : "${loan_id}", "status" : "4"}
+2018-10-25 11:47:36,257-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:47:36,276-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:47:36,297-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-25 11:47:36,310-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"123456"}
+2018-10-25 11:47:36,415-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:47:36,431-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-25 11:47:36,447-INFO-my_log.py-python10-日志信息:测试结果是：{'status': 1, 'data': None, 'code': '10001', 'msg': '登录成功'}
+2018-10-25 11:47:36,593-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:47:36,597-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:47:36,603-INFO-my_log.py-python10-日志信息:正在运行第2条用例：正常投资
+2018-10-25 11:47:36,608-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"${loan_id}","amount":"100"}
+2018-10-25 11:47:36,816-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:47:36,833-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:47:36,849-INFO-my_log.py-python10-日志信息:正在运行第3条用例：不输入投资金额
+2018-10-25 11:47:36,859-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"${loan_id}","amount":""}
+2018-10-25 11:47:37,108-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:47:37,125-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:47:37,142-INFO-my_log.py-python10-日志信息:正在运行第4条用例：投资金额为负数
+2018-10-25 11:47:37,158-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"${loan_id}","amount":"-100"}
+2018-10-25 11:47:37,425-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:47:37,442-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:47:37,453-INFO-my_log.py-python10-日志信息:正在运行第1条用例：正常注册
+2018-10-25 11:47:37,464-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670150","pwd":"123456","regname":"lemonban001"}
+2018-10-25 11:47:37,564-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:47:37,571-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2018-10-25 11:47:37,579-INFO-my_log.py-python10-日志信息:测试结果是：{'status': 1, 'data': None, 'code': '10001', 'msg': '注册成功'}
+2018-10-25 11:47:37,698-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:47:37,703-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:47:37,708-INFO-my_log.py-python10-日志信息:正在运行第2条用例：重复注册
+2018-10-25 11:47:37,713-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670150","pwd":"123456","regname":"lemonban002"}
+2018-10-25 11:47:37,861-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:47:37,876-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2018-10-25 11:47:37,893-INFO-my_log.py-python10-日志信息:测试结果是：{'status': 0, 'data': None, 'code': '20110', 'msg': '手机号码已被注册'}
+2018-10-25 11:47:38,055-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:47:38,061-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:47:38,065-INFO-my_log.py-python10-日志信息:正在运行第1条用例：正常登录
+2018-10-25 11:47:38,071-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"123456"}
+2018-10-25 11:47:38,136-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:47:38,142-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-25 11:47:38,149-INFO-my_log.py-python10-日志信息:测试结果是：{'status': 1, 'data': None, 'code': '10001', 'msg': '登录成功'}
+2018-10-25 11:47:38,246-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:47:38,251-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:47:38,257-INFO-my_log.py-python10-日志信息:正在运行第2条用例：不输入手机号
+2018-10-25 11:47:38,262-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"","pwd":"123456"}
+2018-10-25 11:47:38,341-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:47:38,356-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2018-10-25 11:47:38,372-INFO-my_log.py-python10-日志信息:测试结果是：{'status': 0, 'data': None, 'code': '20103', 'msg': '手机号不能为空'}
+2018-10-25 11:47:38,495-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:47:38,499-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:47:38,504-INFO-my_log.py-python10-日志信息:正在运行第3条用例：不输入密码
+2018-10-25 11:47:38,509-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":""}
+2018-10-25 11:47:38,602-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:47:38,618-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2018-10-25 11:47:38,634-INFO-my_log.py-python10-日志信息:测试结果是：{'status': 0, 'data': None, 'code': '20103', 'msg': '密码不能为空'}
+2018-10-25 11:47:38,772-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:47:38,777-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:47:38,782-INFO-my_log.py-python10-日志信息:正在运行第4条用例：输入错误的密码
+2018-10-25 11:47:38,787-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"12345678"}
+2018-10-25 11:47:38,883-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:47:38,898-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2018-10-25 11:47:38,913-INFO-my_log.py-python10-日志信息:测试结果是：{'status': 0, 'data': None, 'code': '20111', 'msg': '用户名或密码错误'}
+2018-10-25 11:47:39,047-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:47:39,053-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:47:39,059-INFO-my_log.py-python10-日志信息:正在运行第5条用例：输入错误的手机号
+2018-10-25 11:47:39,066-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"{","pwd":"123456"}
+2018-10-25 11:47:39,163-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:47:39,180-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2018-10-25 11:47:39,196-INFO-my_log.py-python10-日志信息:测试结果是：{'status': 0, 'data': None, 'code': '20111', 'msg': '用户名或密码错误'}
+2018-10-25 11:47:39,343-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:04,996-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:05,004-INFO-my_log.py-python10-日志信息:正在运行第1条用例：正常注册
+2018-10-25 11:48:05,009-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670151","pwd":"123456","regname":"lemonban001"}
+2018-10-25 11:48:05,108-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:48:05,123-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2018-10-25 11:48:05,139-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '注册成功', 'code': '10001', 'status': 1, 'data': None}
+2018-10-25 11:48:05,258-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:05,263-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:05,269-INFO-my_log.py-python10-日志信息:正在运行第2条用例：重复注册
+2018-10-25 11:48:05,274-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670151","pwd":"123456","regname":"lemonban002"}
+2018-10-25 11:48:05,375-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:48:05,389-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2018-10-25 11:48:05,404-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '手机号码已被注册', 'code': '20110', 'status': 0, 'data': None}
+2018-10-25 11:48:05,629-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:05,634-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:05,640-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-25 11:48:05,645-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13755127763","pwd":"123456"}
+2018-10-25 11:48:05,733-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:48:05,749-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-25 11:48:05,764-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '登录成功', 'code': '10001', 'status': 1, 'data': None}
+2018-10-25 11:48:05,892-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:05,897-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:05,903-INFO-my_log.py-python10-日志信息:正在运行第2条用例：加标
+2018-10-25 11:48:05,908-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","title":"23526to_add_loan", "amount" : "10000","loanRate":"12.0","loanTerm":"3","loanDateType":"0","repaymemtWay":"11","biddingDays":"5"}
+2018-10-25 11:48:05,981-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:48:05,993-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2018-10-25 11:48:06,003-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '加标成功', 'code': '10001', 'status': 1, 'data': None}
+2018-10-25 11:48:06,095-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:06,101-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:06,106-INFO-my_log.py-python10-日志信息:正在运行第3条用例：审核
+2018-10-25 11:48:06,112-INFO-my_log.py-python10-日志信息:测试数据是:{"id" : "${loan_id}", "status" : "4"}
+2018-10-25 11:48:06,442-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:48:06,457-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"更新状态成功：竞标开始，当前标为竞标中状态"}
+2018-10-25 11:48:06,473-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '更新状态成功：竞标开始，当前标为竞标中状态', 'code': '10001', 'status': 1, 'data': None}
+2018-10-25 11:48:06,668-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:06,673-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:06,679-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-25 11:48:06,685-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"123456"}
+2018-10-25 11:48:06,783-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:48:06,798-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-25 11:48:06,814-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '登录成功', 'code': '10001', 'status': 1, 'data': None}
+2018-10-25 11:48:07,054-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:07,059-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:07,064-INFO-my_log.py-python10-日志信息:正在运行第2条用例：正常投资
+2018-10-25 11:48:07,069-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"${loan_id}","amount":"100"}
+2018-10-25 11:48:07,331-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:48:07,348-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2018-10-25 11:48:07,363-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '竞标成功', 'code': '10001', 'status': 1, 'data': None}
+2018-10-25 11:48:07,500-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:07,505-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:07,510-INFO-my_log.py-python10-日志信息:正在运行第3条用例：不输入投资金额
+2018-10-25 11:48:07,514-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"${loan_id}","amount":""}
+2018-10-25 11:48:07,767-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:48:07,783-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"11003","data":null,"msg":"参数错误:所有参数都不能为空"}
+2018-10-25 11:48:07,800-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '参数错误:所有参数都不能为空', 'code': '11003', 'status': 0, 'data': None}
+2018-10-25 11:48:07,922-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:07,927-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:07,932-INFO-my_log.py-python10-日志信息:正在运行第4条用例：投资金额为负数
+2018-10-25 11:48:07,937-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"${loan_id}","amount":"-100"}
+2018-10-25 11:48:08,272-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:48:08,284-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2018-10-25 11:48:08,294-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '参数错误，投资金额必须是能被100整除的正整数', 'code': '11007', 'status': 0, 'data': None}
+2018-10-25 11:48:08,401-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:08,405-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:08,411-INFO-my_log.py-python10-日志信息:正在运行第1条用例：正常登录
+2018-10-25 11:48:08,416-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"123456"}
+2018-10-25 11:48:08,506-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:48:08,522-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-25 11:48:08,538-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '登录成功', 'code': '10001', 'status': 1, 'data': None}
+2018-10-25 11:48:08,677-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:08,682-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:08,687-INFO-my_log.py-python10-日志信息:正在运行第2条用例：不输入手机号
+2018-10-25 11:48:08,692-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"","pwd":"123456"}
+2018-10-25 11:48:08,780-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:48:08,796-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2018-10-25 11:48:08,812-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '手机号不能为空', 'code': '20103', 'status': 0, 'data': None}
+2018-10-25 11:48:08,940-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:08,945-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:08,951-INFO-my_log.py-python10-日志信息:正在运行第3条用例：不输入密码
+2018-10-25 11:48:08,956-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":""}
+2018-10-25 11:48:09,032-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:48:09,048-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2018-10-25 11:48:09,064-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '密码不能为空', 'code': '20103', 'status': 0, 'data': None}
+2018-10-25 11:48:09,202-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:09,207-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:09,213-INFO-my_log.py-python10-日志信息:正在运行第4条用例：输入错误的密码
+2018-10-25 11:48:09,218-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"12345678"}
+2018-10-25 11:48:09,304-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:48:09,321-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2018-10-25 11:48:09,335-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '用户名或密码错误', 'code': '20111', 'status': 0, 'data': None}
+2018-10-25 11:48:09,439-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:09,444-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:09,450-INFO-my_log.py-python10-日志信息:正在运行第5条用例：输入错误的手机号
+2018-10-25 11:48:09,454-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"{","pwd":"123456"}
+2018-10-25 11:48:09,542-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:48:09,557-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2018-10-25 11:48:09,573-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '用户名或密码错误', 'code': '20111', 'status': 0, 'data': None}
+2018-10-25 11:48:09,718-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:38,187-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:38,193-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-25 11:48:38,198-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"123456"}
+2018-10-25 11:48:38,275-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:48:38,286-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-25 11:48:38,297-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '登录成功', 'status': 1, 'data': None, 'code': '10001'}
+2018-10-25 11:48:38,403-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:38,409-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:38,414-INFO-my_log.py-python10-日志信息:正在运行第2条用例：正常投资
+2018-10-25 11:48:38,420-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"${loan_id}","amount":"100"}
+2018-10-25 11:48:38,652-INFO-my_log.py-python10-日志信息:True
+2018-10-25 11:48:38,784-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:48:38,799-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2018-10-25 11:48:38,815-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '竞标成功', 'status': 1, 'data': None, 'code': '10001'}
+2018-10-25 11:48:38,957-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:38,962-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:38,969-INFO-my_log.py-python10-日志信息:正在运行第3条用例：不输入投资金额
+2018-10-25 11:48:38,974-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"${loan_id}","amount":""}
+2018-10-25 11:48:39,213-INFO-my_log.py-python10-日志信息:True
+2018-10-25 11:48:39,291-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:48:39,301-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"11003","data":null,"msg":"参数错误:所有参数都不能为空"}
+2018-10-25 11:48:39,317-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '参数错误:所有参数都不能为空', 'status': 0, 'data': None, 'code': '11003'}
+2018-10-25 11:48:39,451-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:39,457-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:39,463-INFO-my_log.py-python10-日志信息:正在运行第4条用例：投资金额为负数
+2018-10-25 11:48:39,468-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"${loan_id}","amount":"-100"}
+2018-10-25 11:48:39,705-INFO-my_log.py-python10-日志信息:True
+2018-10-25 11:48:39,796-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:48:39,812-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2018-10-25 11:48:39,828-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '参数错误，投资金额必须是能被100整除的正整数', 'status': 0, 'data': None, 'code': '11007'}
+2018-10-25 11:48:39,943-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:39,948-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:39,954-INFO-my_log.py-python10-日志信息:正在运行第1条用例：正常注册
+2018-10-25 11:48:39,959-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670152","pwd":"123456","regname":"lemonban001"}
+2018-10-25 11:48:40,060-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:48:40,077-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2018-10-25 11:48:40,094-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '注册成功', 'status': 1, 'data': None, 'code': '10001'}
+2018-10-25 11:48:40,228-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:40,234-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:40,239-INFO-my_log.py-python10-日志信息:正在运行第2条用例：重复注册
+2018-10-25 11:48:40,244-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670152","pwd":"123456","regname":"lemonban002"}
+2018-10-25 11:48:40,314-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:48:40,326-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2018-10-25 11:48:40,338-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '手机号码已被注册', 'status': 0, 'data': None, 'code': '20110'}
+2018-10-25 11:48:40,452-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:40,458-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:40,463-INFO-my_log.py-python10-日志信息:正在运行第1条用例：正常登录
+2018-10-25 11:48:40,469-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"123456"}
+2018-10-25 11:48:40,536-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:48:40,547-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-25 11:48:40,558-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '登录成功', 'status': 1, 'data': None, 'code': '10001'}
+2018-10-25 11:48:40,659-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:40,665-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:40,670-INFO-my_log.py-python10-日志信息:正在运行第2条用例：不输入手机号
+2018-10-25 11:48:40,676-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"","pwd":"123456"}
+2018-10-25 11:48:40,769-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:48:40,785-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2018-10-25 11:48:40,801-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '手机号不能为空', 'status': 0, 'data': None, 'code': '20103'}
+2018-10-25 11:48:40,912-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:40,917-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:40,923-INFO-my_log.py-python10-日志信息:正在运行第3条用例：不输入密码
+2018-10-25 11:48:40,934-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":""}
+2018-10-25 11:48:41,008-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:48:41,024-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2018-10-25 11:48:41,040-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '密码不能为空', 'status': 0, 'data': None, 'code': '20103'}
+2018-10-25 11:48:41,203-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:41,208-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:41,213-INFO-my_log.py-python10-日志信息:正在运行第4条用例：输入错误的密码
+2018-10-25 11:48:41,219-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"12345678"}
+2018-10-25 11:48:41,318-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:48:41,335-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2018-10-25 11:48:41,350-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '用户名或密码错误', 'status': 0, 'data': None, 'code': '20111'}
+2018-10-25 11:48:41,519-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:41,524-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:41,530-INFO-my_log.py-python10-日志信息:正在运行第5条用例：输入错误的手机号
+2018-10-25 11:48:41,535-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"{","pwd":"123456"}
+2018-10-25 11:48:41,600-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:48:41,616-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2018-10-25 11:48:41,635-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '用户名或密码错误', 'status': 0, 'data': None, 'code': '20111'}
+2018-10-25 11:48:41,799-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:41,810-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:41,822-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-25 11:48:41,827-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13755127763","pwd":"123456"}
+2018-10-25 11:48:41,937-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:48:41,951-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-25 11:48:41,966-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '登录成功', 'status': 1, 'data': None, 'code': '10001'}
+2018-10-25 11:48:42,078-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:42,085-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:42,090-INFO-my_log.py-python10-日志信息:正在运行第2条用例：加标
+2018-10-25 11:48:42,096-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","title":"23526to_add_loan", "amount" : "10000","loanRate":"12.0","loanTerm":"3","loanDateType":"0","repaymemtWay":"11","biddingDays":"5"}
+2018-10-25 11:48:42,199-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:48:42,215-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2018-10-25 11:48:42,229-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '加标成功', 'status': 1, 'data': None, 'code': '10001'}
+2018-10-25 11:48:42,351-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:48:42,356-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:48:42,361-INFO-my_log.py-python10-日志信息:正在运行第3条用例：审核
+2018-10-25 11:48:42,367-INFO-my_log.py-python10-日志信息:测试数据是:{"id" : "${loan_id}", "status" : "4"}
+2018-10-25 11:48:42,514-INFO-my_log.py-python10-日志信息:True
+2018-10-25 11:48:42,605-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:48:42,621-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"更新状态成功：竞标开始，当前标为竞标中状态"}
+2018-10-25 11:48:42,638-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '更新状态成功：竞标开始，当前标为竞标中状态', 'status': 1, 'data': None, 'code': '10001'}
+2018-10-25 11:48:42,787-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:49:13,393-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:49:13,398-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-25 11:49:13,403-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13755127763","pwd":"123456"}
+2018-10-25 11:49:13,474-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:49:13,484-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-25 11:49:13,494-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '登录成功', 'code': '10001', 'data': None, 'status': 1}
+2018-10-25 11:49:13,611-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:49:13,618-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:49:13,624-INFO-my_log.py-python10-日志信息:正在运行第2条用例：加标
+2018-10-25 11:49:13,629-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","title":"23526to_add_loan", "amount" : "10000","loanRate":"12.0","loanTerm":"3","loanDateType":"0","repaymemtWay":"11","biddingDays":"5"}
+2018-10-25 11:49:13,705-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:49:13,711-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2018-10-25 11:49:13,718-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '加标成功', 'code': '10001', 'data': None, 'status': 1}
+2018-10-25 11:49:13,817-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:49:13,822-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:49:13,828-INFO-my_log.py-python10-日志信息:正在运行第3条用例：审核
+2018-10-25 11:49:13,834-INFO-my_log.py-python10-日志信息:测试数据是:{"id" : "${loan_id}", "status" : "4"}
+2018-10-25 11:49:14,076-INFO-my_log.py-python10-日志信息:4598
+2018-10-25 11:49:14,175-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:49:14,186-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"更新状态成功：竞标开始，当前标为竞标中状态"}
+2018-10-25 11:49:14,197-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '更新状态成功：竞标开始，当前标为竞标中状态', 'code': '10001', 'data': None, 'status': 1}
+2018-10-25 11:49:14,324-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:49:14,329-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:49:14,335-INFO-my_log.py-python10-日志信息:正在运行第1条用例：正常登录
+2018-10-25 11:49:14,340-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"123456"}
+2018-10-25 11:49:14,438-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:49:14,454-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-25 11:49:14,470-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '登录成功', 'code': '10001', 'data': None, 'status': 1}
+2018-10-25 11:49:14,588-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:49:14,593-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:49:14,599-INFO-my_log.py-python10-日志信息:正在运行第2条用例：不输入手机号
+2018-10-25 11:49:14,604-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"","pwd":"123456"}
+2018-10-25 11:49:14,701-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:49:14,717-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2018-10-25 11:49:14,733-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '手机号不能为空', 'code': '20103', 'data': None, 'status': 0}
+2018-10-25 11:49:14,866-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:49:14,873-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:49:14,880-INFO-my_log.py-python10-日志信息:正在运行第3条用例：不输入密码
+2018-10-25 11:49:14,886-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":""}
+2018-10-25 11:49:14,949-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:49:14,961-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2018-10-25 11:49:14,974-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '密码不能为空', 'code': '20103', 'data': None, 'status': 0}
+2018-10-25 11:49:15,088-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:49:15,093-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:49:15,099-INFO-my_log.py-python10-日志信息:正在运行第4条用例：输入错误的密码
+2018-10-25 11:49:15,105-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"12345678"}
+2018-10-25 11:49:15,174-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:49:15,190-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2018-10-25 11:49:15,206-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '用户名或密码错误', 'code': '20111', 'data': None, 'status': 0}
+2018-10-25 11:49:15,335-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:49:15,340-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:49:15,346-INFO-my_log.py-python10-日志信息:正在运行第5条用例：输入错误的手机号
+2018-10-25 11:49:15,352-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"{","pwd":"123456"}
+2018-10-25 11:49:15,421-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:49:15,437-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2018-10-25 11:49:15,454-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '用户名或密码错误', 'code': '20111', 'data': None, 'status': 0}
+2018-10-25 11:49:15,551-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:49:15,556-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:49:15,561-INFO-my_log.py-python10-日志信息:正在运行第1条用例：正常注册
+2018-10-25 11:49:15,567-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670153","pwd":"123456","regname":"lemonban001"}
+2018-10-25 11:49:15,673-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:49:15,691-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2018-10-25 11:49:15,708-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '注册成功', 'code': '10001', 'data': None, 'status': 1}
+2018-10-25 11:49:15,822-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:49:15,827-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:49:15,833-INFO-my_log.py-python10-日志信息:正在运行第2条用例：重复注册
+2018-10-25 11:49:15,839-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670153","pwd":"123456","regname":"lemonban002"}
+2018-10-25 11:49:15,907-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:49:15,922-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2018-10-25 11:49:15,937-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '手机号码已被注册', 'code': '20110', 'data': None, 'status': 0}
+2018-10-25 11:49:16,036-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:49:16,041-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:49:16,047-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-25 11:49:16,053-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"123456"}
+2018-10-25 11:49:16,137-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:49:16,149-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-25 11:49:16,160-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '登录成功', 'code': '10001', 'data': None, 'status': 1}
+2018-10-25 11:49:16,287-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:49:16,292-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:49:16,298-INFO-my_log.py-python10-日志信息:正在运行第2条用例：正常投资
+2018-10-25 11:49:16,303-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"${loan_id}","amount":"100"}
+2018-10-25 11:49:16,440-INFO-my_log.py-python10-日志信息:4598
+2018-10-25 11:49:16,577-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:49:16,593-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2018-10-25 11:49:16,609-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '竞标成功', 'code': '10001', 'data': None, 'status': 1}
+2018-10-25 11:49:16,721-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:49:16,726-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:49:16,731-INFO-my_log.py-python10-日志信息:正在运行第3条用例：不输入投资金额
+2018-10-25 11:49:16,737-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"${loan_id}","amount":""}
+2018-10-25 11:49:16,907-INFO-my_log.py-python10-日志信息:4598
+2018-10-25 11:49:16,982-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-25 11:49:16,989-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"11003","data":null,"msg":"参数错误:所有参数都不能为空"}
+2018-10-25 11:49:16,998-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '参数错误:所有参数都不能为空', 'code': '11003', 'data': None, 'status': 0}
+2018-10-25 11:49:17,105-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-25 11:49:17,111-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-25 11:49:17,117-INFO-my_log.py-python10-日志信息:正在运行第4条用例：投资金额为负数
+2018-10-25 11:49:17,121-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","password":"123456","loanId":"${loan_id}","amount":"-100"}
+2018-10-25 11:49:17,345-INFO-my_log.py-python10-日志信息:4598
+2018-10-25 11:49:17,430-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-25 11:49:17,446-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2018-10-25 11:49:17,462-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '参数错误，投资金额必须是能被100整除的正整数', 'code': '11007', 'data': None, 'status': 0}
+2018-10-25 11:49:17,589-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-26 21:29:32,294-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-26 21:29:32,545-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-26 21:29:32,553-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13755127763","pwd":"123456"}
+2018-10-26 21:29:32,699-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-26 21:29:32,711-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-26 21:29:32,725-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '10001', 'status': 1, 'msg': '登录成功'}
+2018-10-26 21:29:32,871-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-26 21:29:32,889-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-26 21:29:32,901-INFO-my_log.py-python10-日志信息:正在运行第2条用例：加标
+2018-10-26 21:29:32,909-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","title":"23526to_add_loan", "amount" : "10000","loanRate":"12.0","loanTerm":"3","loanDateType":"0","repaymemtWay":"11","biddingDays":"5"}
+2018-10-26 21:29:33,008-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-26 21:29:33,015-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2018-10-26 21:29:33,021-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '10001', 'status': 1, 'msg': '加标成功'}
+2018-10-26 21:29:33,153-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-26 21:29:33,163-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-26 21:29:33,175-INFO-my_log.py-python10-日志信息:正在运行第3条用例：审核
+2018-10-26 21:29:33,186-INFO-my_log.py-python10-日志信息:测试数据是:{"id" : "${loan_id}", "status" : "4"}
+2018-10-26 21:29:33,416-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-26 21:29:33,423-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"更新状态成功：竞标开始，当前标为竞标中状态"}
+2018-10-26 21:29:33,429-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '10001', 'status': 1, 'msg': '更新状态成功：竞标开始，当前标为竞标中状态'}
+2018-10-26 21:29:33,570-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-26 21:29:33,585-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-26 21:29:33,597-INFO-my_log.py-python10-日志信息:正在运行第1条用例：正常注册
+2018-10-26 21:29:33,608-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670160","pwd":"123456","regname":"lemonban001"}
+2018-10-26 21:29:33,707-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-26 21:29:33,720-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2018-10-26 21:29:33,725-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '10001', 'status': 1, 'msg': '注册成功'}
+2018-10-26 21:29:33,879-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-26 21:29:33,890-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-26 21:29:33,899-INFO-my_log.py-python10-日志信息:正在运行第2条用例：重复注册
+2018-10-26 21:29:33,907-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670160","pwd":"123456","regname":"lemonban002"}
+2018-10-26 21:29:33,971-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-26 21:29:33,976-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20110","data":null,"msg":"手机号码已被注册"}
+2018-10-26 21:29:33,983-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '20110', 'status': 0, 'msg': '手机号码已被注册'}
+2018-10-26 21:29:34,126-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-26 21:29:34,139-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-26 21:29:34,149-INFO-my_log.py-python10-日志信息:正在运行第3条用例：不输入昵称注册
+2018-10-26 21:29:34,160-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670161","pwd":"123456","regname":""}
+2018-10-26 21:29:34,268-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-26 21:29:34,279-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"注册成功"}
+2018-10-26 21:29:34,288-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '10001', 'status': 1, 'msg': '注册成功'}
+2018-10-26 21:29:34,438-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-26 21:29:34,445-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-26 21:29:34,461-INFO-my_log.py-python10-日志信息:正在运行第4条用例：不输入手机号注册
+2018-10-26 21:29:34,468-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"","pwd":"123456","regname":""}
+2018-10-26 21:29:34,532-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-26 21:29:34,541-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2018-10-26 21:29:34,548-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '20103', 'status': 0, 'msg': '手机号不能为空'}
+2018-10-26 21:29:34,697-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-26 21:29:34,714-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-26 21:29:34,728-INFO-my_log.py-python10-日志信息:正在运行第5条用例：输入错误长度的密码去注册
+2018-10-26 21:29:34,734-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670162","pwd":"12345","regname":""}
+2018-10-26 21:29:34,820-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-26 21:29:34,828-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20108","data":null,"msg":"密码长度必须为6~18"}
+2018-10-26 21:29:34,840-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '20108', 'status': 0, 'msg': '密码长度必须为6~18'}
+2018-10-26 21:29:34,990-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-26 21:29:35,000-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-26 21:29:35,005-INFO-my_log.py-python10-日志信息:正在运行第1条用例：正常登录
+2018-10-26 21:29:35,011-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"123456"}
+2018-10-26 21:29:35,085-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-26 21:29:35,094-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-26 21:29:35,102-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '10001', 'status': 1, 'msg': '登录成功'}
+2018-10-26 21:29:35,264-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-26 21:29:35,274-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-26 21:29:35,281-INFO-my_log.py-python10-日志信息:正在运行第2条用例：不输入手机号
+2018-10-26 21:29:35,292-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"","pwd":"123456"}
+2018-10-26 21:29:35,363-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-26 21:29:35,374-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+2018-10-26 21:29:35,382-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '20103', 'status': 0, 'msg': '手机号不能为空'}
+2018-10-26 21:29:35,535-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-26 21:29:35,547-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-26 21:29:35,559-INFO-my_log.py-python10-日志信息:正在运行第3条用例：不输入密码
+2018-10-26 21:29:35,566-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":""}
+2018-10-26 21:29:35,647-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-26 21:29:35,665-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+2018-10-26 21:29:35,677-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '20103', 'status': 0, 'msg': '密码不能为空'}
+2018-10-26 21:29:35,826-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-26 21:29:35,835-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-26 21:29:35,851-INFO-my_log.py-python10-日志信息:正在运行第4条用例：输入错误的密码
+2018-10-26 21:29:35,858-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"12345678"}
+2018-10-26 21:29:35,952-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-26 21:29:35,957-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2018-10-26 21:29:35,968-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '20111', 'status': 0, 'msg': '用户名或密码错误'}
+2018-10-26 21:29:36,107-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-26 21:29:36,119-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-26 21:29:36,125-INFO-my_log.py-python10-日志信息:正在运行第5条用例：输入错误的手机号
+2018-10-26 21:29:36,130-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"{","pwd":"123456"}
+2018-10-26 21:29:36,214-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-26 21:29:36,221-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+2018-10-26 21:29:36,227-INFO-my_log.py-python10-日志信息:测试结果是：{'data': None, 'code': '20111', 'status': 0, 'msg': '用户名或密码错误'}
+2018-10-26 21:29:36,376-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-26 22:18:32,251-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-26 22:18:32,260-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-26 22:18:32,268-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13667670088","pwd":"123456"}
+2018-10-26 22:18:32,362-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-26 22:18:32,373-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-26 22:18:32,383-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '登录成功', 'status': 1, 'data': None, 'code': '10001'}
+2018-10-26 22:18:32,532-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-26 22:18:32,544-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-26 22:18:32,563-INFO-my_log.py-python10-日志信息:正在运行第2条用例：正常投资
+2018-10-26 22:18:32,575-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23527","password":"123456","loanId":"${loan_id}","amount":"100"}
+2018-10-26 22:18:32,898-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-26 22:18:32,904-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"竞标成功"}
+2018-10-26 22:18:32,909-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '竞标成功', 'status': 1, 'data': None, 'code': '10001'}
+2018-10-26 22:18:33,058-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-26 22:18:33,066-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-26 22:18:33,078-INFO-my_log.py-python10-日志信息:正在运行第3条用例：不输入投资金额
+2018-10-26 22:18:33,086-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23527","password":"123456","loanId":"${loan_id}","amount":""}
+2018-10-26 22:18:33,274-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-26 22:18:33,284-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"11003","data":null,"msg":"参数错误:所有参数都不能为空"}
+2018-10-26 22:18:33,290-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '参数错误:所有参数都不能为空', 'status': 0, 'data': None, 'code': '11003'}
+2018-10-26 22:18:33,449-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-26 22:18:33,459-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-26 22:18:33,465-INFO-my_log.py-python10-日志信息:正在运行第4条用例：投资金额为负数
+2018-10-26 22:18:33,475-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23527","password":"123456","loanId":"${loan_id}","amount":"-100"}
+2018-10-26 22:18:33,770-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-26 22:18:33,778-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":0,"code":"11007","data":null,"msg":"参数错误，投资金额必须是能被100整除的正整数"}
+2018-10-26 22:18:33,785-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '参数错误，投资金额必须是能被100整除的正整数', 'status': 0, 'data': None, 'code': '11007'}
+2018-10-26 22:18:33,941-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-26 22:18:33,952-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-26 22:18:33,963-INFO-my_log.py-python10-日志信息:正在运行第1条用例：登录
+2018-10-26 22:18:33,972-INFO-my_log.py-python10-日志信息:测试数据是:{"mobilephone":"13755127763","pwd":"123456"}
+2018-10-26 22:18:34,068-INFO-my_log.py-python10-日志信息:正在进行post请求
+2018-10-26 22:18:34,074-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"登录成功"}
+2018-10-26 22:18:34,086-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '登录成功', 'status': 1, 'data': None, 'code': '10001'}
+2018-10-26 22:18:34,321-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-26 22:18:34,325-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-26 22:18:34,332-INFO-my_log.py-python10-日志信息:正在运行第2条用例：加标
+2018-10-26 22:18:34,339-INFO-my_log.py-python10-日志信息:测试数据是:{"memberId":"23526","title":"23526to_add_loan", "amount" : "10000","loanRate":"12.0","loanTerm":"3","loanDateType":"0","repaymemtWay":"11","biddingDays":"5"}
+2018-10-26 22:18:34,435-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-26 22:18:34,444-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"加标成功"}
+2018-10-26 22:18:34,451-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '加标成功', 'status': 1, 'data': None, 'code': '10001'}
+2018-10-26 22:18:34,593-INFO-my_log.py-python10-日志信息:结束这个用例的测试
+2018-10-26 22:18:34,604-INFO-my_log.py-python10-日志信息:开始测试了
+2018-10-26 22:18:34,613-INFO-my_log.py-python10-日志信息:正在运行第3条用例：审核
+2018-10-26 22:18:34,619-INFO-my_log.py-python10-日志信息:测试数据是:{"id" : "${loan_id}", "status" : "4"}
+2018-10-26 22:18:34,843-INFO-my_log.py-python10-日志信息:正在进行get请求
+2018-10-26 22:18:34,852-INFO-my_log.py-python10-日志信息:http请求的结果是:{"status":1,"code":"10001","data":null,"msg":"更新状态成功：竞标开始，当前标为竞标中状态"}
+2018-10-26 22:18:34,857-INFO-my_log.py-python10-日志信息:测试结果是：{'msg': '更新状态成功：竞标开始，当前标为竞标中状态', 'status': 1, 'data': None, 'code': '10001'}
+2018-10-26 22:18:35,015-INFO-my_log.py-python10-日志信息:结束这个用例的测试
