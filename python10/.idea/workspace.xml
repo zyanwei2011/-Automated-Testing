@@ -2,56 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb061eaa-a67d-43d3-a295-8e9f76732a35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1022/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1022/common/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1022/common/do_excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1022/common/do_mysql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1022/common/do_mysql_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1022/common/http_request.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1022/common/my_log.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1022/common/project_path.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1022/common/read_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1022/common/send_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1022/common/test_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1022/config/case.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1022/config/db.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1022/read_me.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1022/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1022/test_data/api.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1022/test_data/api_2.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1022/test_result/logs/test_api.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1022/test_result/report/test_api.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1026/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1026/class_1026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1026/common/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1026/common/do_excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1026/common/do_mysql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1026/common/get_info_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1026/common/http_request.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1026/common/my_log.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1026/common/project_path.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1026/common/read_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1026/common/send_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1026/common/test_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1026/common/test_business.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1026/common/test_invest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1026/common/test_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1026/common/test_register.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1026/config/case.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1026/config/db.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1026/read_me.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1026/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1026/test_data/api.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1026/test_data/api_2.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1026/test_result/logs/test_api.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_Frame_Work_1026/test_result/report/test_api.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface_test/common/do_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface_test/common/do_excel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface_test/common/send_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface_test/common/send_email.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface_test/common/test_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface_test/common/test_case.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/interface_test/test_data/test_data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/interface_test/test_data/test_data.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface_test/test_result/logs/test_api_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/interface_test/test_result/logs/test_api_log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface_test/test_result/results/test_result.html" beforeDir="false" afterPath="$PROJECT_DIR$/interface_test/test_result/results/test_result.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +25,7 @@
     <SUITE FILE_PATH="coverage/python10$do_excel__1_.coverage" NAME="do_excel (1) Coverage Results" MODIFIED="1540369166387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy_1024" />
     <SUITE FILE_PATH="coverage/python10$read_config.coverage" NAME="read_config Coverage Results" MODIFIED="1540368207462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy_1024" />
     <SUITE FILE_PATH="coverage/python10$zy_re.coverage" NAME="zy_re Coverage Results" MODIFIED="1540369647891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy_resquests" />
-    <SUITE FILE_PATH="coverage/python10$run__1_.coverage" NAME="run (1) Coverage Results" MODIFIED="1542944765506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_test" />
+    <SUITE FILE_PATH="coverage/python10$run__1_.coverage" NAME="run (1) Coverage Results" MODIFIED="1542945906817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface_test" />
     <SUITE FILE_PATH="coverage/python10$unit_test.coverage" NAME="unit_test Coverage Results" MODIFIED="1538126165071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy" />
     <SUITE FILE_PATH="coverage/python10$learn_log.coverage" NAME="learn_log Coverage Results" MODIFIED="1540007175913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LOG" />
     <SUITE FILE_PATH="coverage/python10$Unittests_in_test_case_py.coverage" NAME="Unittests in test_case.py Coverage Results" MODIFIED="1540370125883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zy_1024" />
@@ -593,12 +544,12 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="753" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4939759" visible="true" weight="0.18154311" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4939759" visible="true" weight="0.18154311" />
       <window_info id="Structure" order="1" sideWeight="0.5060241" side_tool="true" weight="0.17246597" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.14401294" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.32847896" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.32847896" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39967638" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
